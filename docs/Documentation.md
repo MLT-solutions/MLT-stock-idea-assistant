@@ -61,7 +61,10 @@
 
 ### 2. Open Prompt
 - You may paste prompts from other tools
-- Format must be:
+- Format must be in 3 lines format without bullet points:
+  - Title:
+  - Description:
+  - Keywords:
 - Paste the prompt twice (PRO) for more image variety
 - This is the source for embedding metadata into JPGs
 
@@ -75,7 +78,7 @@
 
 ### 5. Open JPG Folder
 - Output folders use timestamp format `YYYYMMDDHHMM`
-- JPGs are separated and upscaled with `RealESRGAN_x4plus.pth` to ensure size ≥ 3MB
+- JPGs are separated and upscaled with `RealESRGAN_x4plus.pth` to ensure size ≥ 3MB for 1344 x 768 & 768 x 1344.
 - **Important:** Manually delete any low-quality images before uploading
 - CSV file is generated with Title/Keywords ready for Adobe Stock—even if some images are deleted
 
