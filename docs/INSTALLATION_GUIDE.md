@@ -18,8 +18,8 @@ Design smarter, not harder. Whether you're a designer, content creator, or visua
 ---
 
 # MLT Stock Image Assistant Installation & 🗂 Folder Mapping
-Just double click to install the exe installer.
-Folder locations are flexible. You can set your own paths in the Settings panel.
+1. Just double click to install the exe installer.
+2. Folder locations are flexible. You can set your own paths in the Settings panel.
 
 | Folder Name      | Purpose                                                                 |
 |------------------|-------------------------------------------------------------------------|
@@ -33,12 +33,12 @@ Folder locations are flexible. You can set your own paths in the Settings panel.
 
 ---
 
-# Dependency Checker & Installation Guide
+# Dependency Checker [Click the second button on the left]
 ![Screenshot 2025-04-21 100314](https://github.com/user-attachments/assets/c74dfaf8-1fca-44cb-acef-bee0e45411ea)
 
 ---
 
-# 🛠 INSTALLATION GUIDE
+# 🛠 Dependencies Installation Guide
 
 This guide helps you install **Ollama**, **ComfyUI**, required **custom nodes**, and set up your **folder structure** for the MLT Stock Image Automation Tool. 
 
@@ -158,25 +158,3 @@ Instead of manually downloading from HuggingFace:
 - [x] Real-ESRGAN model placed in correct folder
 - [x] Folder mapping configured in the GUI settings
 
----
-
-## 🧪 Test It All Works
-
-Run ComfyUI to verify your setup:
-
-```bash
-cd C:\Users\xxx\Documents\ComfyUI\
-python main.py
-```
-
-- Load the **SDXL Simple** workflow.
-- Test image generation and upscaling.
-
----
-
-Let me know if you need a PDF version or a visual flowchart!
-```
-
----
-
-Would you like this saved and pushed into your GitHub repo automatically (with README link update), or should I generate a downloadable `.md` file?
