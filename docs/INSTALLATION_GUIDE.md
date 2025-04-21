@@ -11,9 +11,10 @@
 # Quick links:
 - [🏠 Home](../README.md)
 - [🎯 Use Cases](case.md)
+- [👀 Sample Outcome](../sample/sample.md)
 - [📚 Documentation](Documentation.md)
 - [🛠 Installation](INSTALLATION_GUIDE.md)
-- [👀 Sample Outcome](../sample/sample.md)
+
   
 ---
 
