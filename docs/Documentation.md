@@ -11,9 +11,10 @@ Design smarter, not harder. Whether you're a designer, content creator, or visua
 ## 🔗 Quick Links
 - [🏠 Home](../README.md)
 - [🎯 Use Cases](case.md)
+- [👀 Sample Outcome](../sample/sample.md)
 - [📚 Documentation](Documentation.md)
 - [🛠 Installation Guide](INSTALLATION_GUIDE.md)
-- [👀 Sample Outcome](../sample/sample.md)
+
 
 ---
 
