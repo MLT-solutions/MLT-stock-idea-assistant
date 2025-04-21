@@ -1,4 +1,4 @@
-# ![Screenshot 2025-04-21 102643](https://github.com/user-attachments/assets/f322d9cc-1adf-45d4-a38d-4764f62cf7bd) MLT Stock Image Automation Assistant
+# ![Screenshot 2025-04-21 102643](https://github.com/user-attachments/assets/f322d9cc-1adf-45d4-a38d-4764f62cf7bd) MLT Stock Image Assistant
 # Installation Documentation
 
 ## Your AI-Powered Visual Ideation Companion
@@ -17,7 +17,23 @@ Design smarter, not harder. Whether you're a designer, content creator, or visua
   
 ---
 
-## Dependency Checker & Installation Guide: Provided in App
+# MLT Stock Image Assistant Installation & 🗂 Folder Mapping
+Just double click to install the exe installer.
+Folder locations are flexible. You can set your own paths in the Settings panel.
+
+| Folder Name      | Purpose                                                                 |
+|------------------|-------------------------------------------------------------------------|
+| `PROMPTS_DIR`    | Temporary prompt file (`prompts.txt`). It gets overwritten each run.   |
+| `OUTPUT_JPG`     | Clean final images with metadata (for upload to stock platforms).       |
+| `OUTPUT_PNG`     | PNGs with detailed metadata (used for regenerating images).             |
+
+### 📸 Example from Settings Panel
+
+![Screenshot 2025-04-21 100818](https://github.com/user-attachments/assets/d7c74574-67f0-41ea-994a-9fdc7e710c51)
+
+---
+
+# Dependency Checker & Installation Guide
 ![Screenshot 2025-04-21 100314](https://github.com/user-attachments/assets/c74dfaf8-1fca-44cb-acef-bee0e45411ea)
 
 ---
@@ -131,23 +147,7 @@ Instead of manually downloading from HuggingFace:
 
 ✅ **Recommended for beginners.**
 
----
 
-## 4. 🗂 Folder Mapping
-
-Folder locations are flexible. You can set your own paths in the Settings panel.
-
-| Folder Name      | Purpose                                                                 |
-|------------------|-------------------------------------------------------------------------|
-| `PROMPTS_DIR`    | Temporary prompt file (`prompts.txt`). It gets overwritten each run.   |
-| `OUTPUT_JPG`     | Clean final images with metadata (for upload to stock platforms).       |
-| `OUTPUT_PNG`     | PNGs with detailed metadata (used for regenerating images).             |
-
-### 📸 Example from Settings Panel
-
-![Screenshot 2025-04-21 100818](https://github.com/user-attachments/assets/d7c74574-67f0-41ea-994a-9fdc7e710c51)
-
----
 
 ## ✅ Final Checklist
 
