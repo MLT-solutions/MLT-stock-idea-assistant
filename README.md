@@ -1,12 +1,14 @@
 # ![Screenshot 2025-04-21 102643](https://github.com/user-attachments/assets/f322d9cc-1adf-45d4-a38d-4764f62cf7bd) MLT Stock Image Automation Assistant
-![Screenshot 2025-04-21 100937](https://github.com/user-attachments/assets/2bdf6d6a-61e6-439e-900a-401a6503c7b9)
+
+![Screenshot 2025-04-21 135349](https://github.com/user-attachments/assets/b7527fab-4783-424d-a2ef-8c466639dd9f)
+
 
 
 Quick links:
 - [📚 Documentation](docs/index.md)
 - [🛠 Installation](docs/install.md)
 
-
+![Screenshot 2025-04-21 100937](https://github.com/user-attachments/assets/2bdf6d6a-61e6-439e-900a-401a6503c7b9)
 # 🛠️ Built for Creators Who Automate
 
 - 💬 Create AI-powered prompts
