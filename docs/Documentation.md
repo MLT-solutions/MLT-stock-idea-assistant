@@ -8,7 +8,7 @@
 - [📚 Documentation](docs/Documentation.md)
 - [🛠 Installation](docs/INSTALLATION_GUIDE.md)
 
-## 🚀 Usage Guide sequences & what each button does
+# 🚀 Usage Guide sequences & what each button does
 ![Screenshot 2025-04-21 142959](https://github.com/user-attachments/assets/d4e3e899-8e4c-452b-8500-ac7715d274be)
 
 ---
@@ -38,7 +38,7 @@
   - Automatically uploads LATEST folder via FTP (LATEST = Last batch image creation)
 
 
-## 📘 Stock Image Automation - User Guide & Some tips
+# 📘 Stock Image Automation - User Guide & Some tips
 1. Generate Prompt
    - Enter your wanted image description in "Prompt Theme" text box
    - Negative prompts already build-in to prevent low quality, malform hand/ limbs & NSFW
