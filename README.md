@@ -9,6 +9,8 @@
 - [📚 Documentation](docs/Documentation.md)
 - [🛠 Installation](docs/INSTALLATION_GUIDE.md)
 
+---
+
 ![Screenshot 2025-04-21 100937](https://github.com/user-attachments/assets/2bdf6d6a-61e6-439e-900a-401a6503c7b9)
 # 🛠️ Built for Creators Who Automate
 
