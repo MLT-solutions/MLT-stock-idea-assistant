@@ -50,35 +50,15 @@ Modern creators juggle speed, quality, and originality. We built this app to **a
 **5. Export & Upload**
 - Final assets ready for use or submission.
 
-# 🛠️ Built for Creators & Designers Who Automate
-
-- 💬 Create AI-powered prompts
-- 🖼️ Generate images via ComfyUI
-- 🏷️ Inject metadata automatically
-- 📄 Upload to stock sites (Dreamstime, Adobe)
-- 0️⃣ **ZERO SETUP** if you already using ComfyUI & Ollama
-- 🆓 **ZERO COST** on own PC
-- 📌 Follow company policy NOT to use online AI
-
-# Why You Might Need This
-## Pain Points Solved
-- Manual image renaming and sorting
-- ComfyUI batch setup complexity
-- No metadata in JPGs
-- Uploading to stock sites one-by-one
-- Manual image title and keywords entry
-
-## This App Is For You If:
-- You need a visualization idea pool
-- You generate lots of AI art
-- You want to automate stock uploads
-- You enjoy organized & simplified workflows
+**6. 🆓 FREE Operation**
+- Everything run on local computer, no subscription fee
 
 # Features / Free vs Pro
 ***Important:*** This is a bridge. You will still need to **install Ollama & ComfyUI** installed on your Machine (SDXL ideally need 12GB VRAM)
 
 | Feature                      | Free Mode         | Pro Mode        |
 |-----------------------------|-------------------|-----------------|
+| One-Time Cost               |     USD 0                |   USD 19.99 |
 | Max Prompts/ Images per Batch       | 3                 | Unlimited       |
 | Enter "Prompt Theme" Auto Generate Prompts          | ✅                | ✅              |
 | Use Manual Prompts          | ✅                | ✅              |
