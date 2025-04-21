@@ -10,6 +10,7 @@
 - [🏠 Home](../README.md)
 - [📚 Documentation](Documentation.md)
 - [🛠 Installation Guide](INSTALLATION_GUIDE.md)
+- [👀 Sample Outcome](../sample/sample.md)
 
 ---
 
