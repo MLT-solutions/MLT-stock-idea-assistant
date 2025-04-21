@@ -1,12 +1,15 @@
 # ![Screenshot 2025-04-21 102643](https://github.com/user-attachments/assets/f322d9cc-1adf-45d4-a38d-4764f62cf7bd) MLT Stock Image Automation Assistant
-![Screenshot 2025-04-21 100937](https://github.com/user-attachments/assets/2bdf6d6a-61e6-439e-900a-401a6503c7b9)
+
+![Screenshot 2025-04-21 135349](https://github.com/user-attachments/assets/b7527fab-4783-424d-a2ef-8c466639dd9f)
 
 
-Quick links:
+
+# Quick links:
+- [🏠 Home](README.md)
 - [📚 Documentation](docs/index.md)
 - [🛠 Installation](docs/install.md)
 
-
+![Screenshot 2025-04-21 100937](https://github.com/user-attachments/assets/2bdf6d6a-61e6-439e-900a-401a6503c7b9)
 # 🛠️ Built for Creators Who Automate
 
 - 💬 Create AI-powered prompts
@@ -14,6 +17,7 @@ Quick links:
 - 🏷️ Inject metadata automatically
 - 📄 Upload to stock sites (Dreamstime, Adobe)
 - 0️⃣ **ZERO SETUP** if you already using ComfyUI & Ollama
+- 📌 Follow company policy NOT to use online AI
 
 # Why You Might Need This
 ## Pain Points Solved
@@ -21,11 +25,12 @@ Quick links:
 - ComfyUI batch setup complexity
 - No metadata in JPGs
 - Uploading to stock sites one-by-one
+- Manual image title and keywords entry
 
 ## This App Is For You If:
 - You generate lots of AI art
 - You want to automate stock uploads
-- You enjoy organized workflows
+- You enjoy organized & simplified workflows
 
 # Features / Free vs Pro
 ***Important:*** This is a bridge. You will still need to **install Ollama & ComfyUI** installed on your Machine (SDXL ideally need 12GB VRAM)
@@ -59,14 +64,14 @@ Quick links:
 
 
 ## Requirements:
-- Windows 11
+- Windows 11 with GPU (Ideally 12GB VRAM)
 - Ollama
 - ComfyUI installed via CLI
 
 
-### ✅ What You're Providing
+### ✅ What am I Providing
 - GUI and automation bridge only — not the models
-- You do **not** bundle Ollama, Mistral weights, or SDXL models
+- I do **not** bundle Ollama, Mistral weights, or SDXL models
 
 ## FAQ
 **Q: Can it run on Mac?**  
