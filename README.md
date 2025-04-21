@@ -4,7 +4,8 @@
 
 
 
-Quick links:
+# Quick links:
+- [🏠 Home](README.md)
 - [📚 Documentation](docs/index.md)
 - [🛠 Installation](docs/install.md)
 
