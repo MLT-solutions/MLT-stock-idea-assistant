@@ -8,7 +8,7 @@ Design smarter, not harder. Whether you're a designer, content creator, or visua
 
 ## Quick links:
 - [🏠 Home](README.md)
-- [🎯 Use Case](docs/case.md)
+- [🎯 Use Cases](docs/case.md)
 - [📚 Documentation](docs/Documentation.md)
 - [🛠 Installation](docs/INSTALLATION_GUIDE.md)
 - [👀 Sample Outcome](sample/sample.md)
