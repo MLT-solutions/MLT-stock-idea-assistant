@@ -15,16 +15,36 @@
 
 ---
 
-## 🚀 Usage Sequence & Button Guide
+## 🛠️ Built for Creators & Designers Who Automate
 
-![App Screenshot](https://github.com/user-attachments/assets/d4e3e899-8e4c-452b-8500-ac7715d274be)
+- 💬 Create AI-powered prompts
+- 🖼️ Generate images via ComfyUI
+- 🏷️ Inject metadata automatically
+- 📄 Upload to stock sites (Dreamstime, Adobe)
+- 0️⃣ **ZERO SETUP** if you already using ComfyUI & Ollama
+- 🆓 **ZERO COST** on own PC
+- 📌 Follow company policy NOT to use online AI
+
+## Why You Might Need This
+### Pain Points Solved
+- Manual image renaming and sorting
+- ComfyUI batch setup complexity
+- No metadata in JPGs
+- Uploading to stock sites one-by-one
+- Manual image title and keywords entry
+
+### This App Is For You If:
+- You need a visualization idea pool
+- You generate lots of AI art
+- You want to automate stock uploads
+- You enjoy organized & simplified workflows
 
 ---
 
 ## 🧠 Feature Highlights
 
 - **Prompt Generation with Ollama LLM (e.g., Mistral)**
-  - Automatically creates 10 high-quality prompts using a local language model
+  - Automatically creates any number of high-quality prompts using a local language model (Free limit to 3)
   - Clean format with `Title`, `Description`, and `Keywords` (new lines for each)
 
 - **Flattened Prompt Conversion**
@@ -55,6 +75,11 @@
 
 ---
 
+## 🚀 Usage Sequence & Button Guide
+
+![App Screenshot](https://github.com/user-attachments/assets/d4e3e899-8e4c-452b-8500-ac7715d274be)
+
+
 ## 📘 How to Use + Tips
 
 ### 1. Generate Prompt
@@ -75,8 +100,7 @@
 - **No prompt limit in PRO version**
 
 ### 4. Generate Image
-- Token errors (`>77`) in ComfyUI are expected and safe to ignore
-- If a JPG metadata mapping fails, the next ones will still work
+- If a JPG metadata mapping fails, the next ones will still map correctly
 
 ### 5. Open JPG Folder
 - Output folders use timestamp format `YYYYMMDDHHMM`
