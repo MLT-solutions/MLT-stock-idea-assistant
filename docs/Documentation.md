@@ -81,9 +81,9 @@
 
 8. **Known issue:**
    - If you see last image e.g. image 100 mapping failure, that means it accidently skip one line somewhere.
-     ***Solution1:*** use exif viewer to check back earlier jpg (manual process), error occurs somewhere 80-90 JPG based on testing.
+     ***(Solution1:)*** use exif viewer to check back earlier jpg (manual process), error occurs somewhere 80-90 JPG based on testing.
      You can use **XnView MP** to view & check metadata and picture with ease
-     ***Solution2:*** create image in smaller batches
+     ***(Solution2:)*** create image in smaller batches
 
 
 
