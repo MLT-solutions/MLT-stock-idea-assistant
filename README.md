@@ -21,7 +21,7 @@
 - 📄 Upload to stock sites (Dreamstime, Adobe)
 - 0️⃣ **ZERO SETUP** if you already using ComfyUI & Ollama
 - 📌 Follow company policy NOT to use online AI
-- **ZERO COST** on own PC
+- 🆓 **ZERO COST** on own PC
 
 # Why You Might Need This
 ## Pain Points Solved
