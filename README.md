@@ -32,6 +32,18 @@
 | Resolution Selection        | ✅                | ✅              |
 | CFG Scale                   | ✅                | ✅              |
 
+## Dependency Checker & Installation Guide: Provided in App
+
+
+
+
+
+## Requirements:
+- Windows 11
+- Ollama
+- ComfyUI installed via CLI
+
+
 ## FAQ
 **Q: Can it run on Mac?**  
 A: It is Windows-optimized and not work on Mac.
