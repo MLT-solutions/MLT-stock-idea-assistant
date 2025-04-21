@@ -2,7 +2,9 @@
 
 # Documentation & Usage Guide
 
-**MLT Stock Image Assistant** is a Windows GUI tool designed to streamline the entire process of AI-based stock image generation, tagging, and publishing to stock sites such as Dreamstime. Built for creators and coders, it combines **Ollama**, **ComfyUI**, and **Python automation** under one user-friendly interface.
+## Your AI-Powered Visual Ideation Companion
+
+Design smarter, not harder. Whether you're a designer, content creator, or visual storyteller—this tool helps you go from concept to visual faster than ever. No more blank canvas anxiety.
 
 --- 
 
