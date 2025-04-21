@@ -1,10 +1,9 @@
-# ![MLT Logo](https://github.com/user-attachments/assets/f322d9cc-1adf-45d4-a38d-4764f62cf7bd) MLT Stock Image Assistant
+# ![MLT Logo](https://github.com/user-attachments/assets/f322d9cc-1adf-45d4-a38d-4764f62cf7bd) MLT Stock Idea Assistant
 
 # Documentation & Usage Guide
 
-## Your AI-Powered Visual Ideation Companion
-
-Design smarter, not harder. Whether you're a designer, content creator, or visual storyteller—this tool helps you go from concept to visual faster than ever. No more blank canvas anxiety.
+## “Your private AI-powered visual assistant that goes from spark to stock-ready.”
+Designers, marketers, and solopreneurs — this is your fast lane from idea to income.
 
 --- 
 
