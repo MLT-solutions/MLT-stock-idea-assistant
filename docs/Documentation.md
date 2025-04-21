@@ -43,11 +43,11 @@
    - Negative prompts already build-in to prevent low quality, malform hand/ limbs & NSFW
      
 2. Open prompt
-  - can generate with other tool and paste here.
-  - make sure ask online AI to generate with this format
-	Title:
-	Description:
-	Keywords:
+   - Can generate with other tool and paste here.
+   - Make sure ask online AI to generate with this format (no bullet)
+     - Title:
+     - Description:
+     - Keywords:
    - Paste 2 copies of the same prompt set to get more variety of images (PRO)
    - **Note:** this file is for jpg data embed metadata
 
