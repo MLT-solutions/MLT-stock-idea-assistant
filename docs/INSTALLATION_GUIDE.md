@@ -68,12 +68,44 @@ C:\Users\xxx\Documents\ComfyUI\
 
 ## 3. 🔌 Install Custom Nodes & Models
 
-### WAS Node Suite
+### A. 📦 Install ComfyUI Manager (Recommended for Managing Nodes Easily)
 
-```bash
-cd C:\Users\xxx\Documents\ComfyUI\custom_nodes
-git clone https://github.com/WASasquatch/was-node-suite-comfyui.git
-```
+Use ComfyUI Manager to install and manage custom nodes without manual Git operations.
+
+1. Open terminal:
+   ```bash
+   cd C:\Users\xxx\Documents\ComfyUI\custom_nodes
+   git clone https://github.com/ltdrdata/ComfyUI-Manager.git
+   ```
+
+2. Restart ComfyUI.
+   ```bash
+   cd C:\Users\xxx\Documents\ComfyUI\
+   python main.py
+   ```
+   
+3. In the ComfyUI interface (http://127.0.0.1:8188), go to:
+   - **Top-right menu → Manager**
+
+---
+
+### B. 🧰 Use ComfyUI Manager to Install These Nodes
+
+After installing the Manager, do the following inside ComfyUI:
+
+#### ➕ WAS Node Suite
+
+1. Go to: **Manager → Custom Nodes**
+2. Search: `was-node`
+3. Click **Install** next to `WAS Node Suite`
+
+#### 🔼 Real-ESRGAN Upscaler Support
+
+1. Go to: **Manager → Custom Nodes**
+2. Search: `RealESRGAN`
+3. Click **Install** (you may be prompted to download model weights)
+
+> The node "Upscale by Model" will appear under your image processing node list after installation.
 
 ---
 
@@ -98,22 +130,6 @@ Instead of manually downloading from HuggingFace:
    - These are automatically placed in `models/checkpoints/`
 
 ✅ **Recommended for beginners.**
-
----
-
-### D. Real-ESRGAN Upscaler
-
-1. Download the model manually:
-
-📦 [Download RealESRGAN_x4plus.pth](https://github.com/xinntao/Real-ESRGAN/blob/master/weights/RealESRGAN_x4plus.pth?raw=true)
-
-2. Place the file into:
-
-```
-C:\Users\xxx\Documents\ComfyUI\models\upscale_models\
-```
-
-> The "Upscale by Model" node is included in the WAS Node Suite. No extra steps needed.
 
 ---
 
