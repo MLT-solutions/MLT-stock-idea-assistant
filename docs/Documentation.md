@@ -1,4 +1,4 @@
-# ![MLT Logo](https://github.com/user-attachments/assets/f322d9cc-1adf-45d4-a38d-4764f62cf7bd) MLT Stock Image Automation Assistant
+# ![MLT Logo](https://github.com/user-attachments/assets/f322d9cc-1adf-45d4-a38d-4764f62cf7bd) MLT Stock Image Assistant
 
 # Documentation & Usage Guide
 
