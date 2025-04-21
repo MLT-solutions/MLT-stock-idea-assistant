@@ -1,6 +1,7 @@
 # ![Screenshot 2025-04-21 102643](https://github.com/user-attachments/assets/f322d9cc-1adf-45d4-a38d-4764f62cf7bd) MLT Stock Image Automation Assistant
 # Introduction
 ![Screenshot 2025-04-21 135349](https://github.com/user-attachments/assets/b7527fab-4783-424d-a2ef-8c466639dd9f)
+![Screenshot 2025-04-21 222430](https://github.com/user-attachments/assets/9d89146e-ed67-4e25-8447-195ea31f2529)
 
 ## Your AI-Powered Visual Ideation Companion
 
