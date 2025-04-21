@@ -2,9 +2,11 @@
 # Introduction
 ![Screenshot 2025-04-21 135349](https://github.com/user-attachments/assets/b7527fab-4783-424d-a2ef-8c466639dd9f)
 
-**MLT Stock Image Assistant** is a Windows GUI tool designed to streamline the entire process of AI-based stock image generation, tagging, and publishing to stock sites such as Dreamstime. Built for creators and coders, it combines Ollama, ComfyUI, and Python automation under one user-friendly interface.
+## Your AI-Powered Visual Ideation Companion
 
-# Quick links:
+Design smarter, not harder. Whether you're a designer, content creator, or visual storyteller—this tool helps you go from concept to visual faster than ever. No more blank canvas anxiety.
+
+## Quick links:
 - [🏠 Home](README.md)
 - [🎯 Use Case](docs/case.md)
 - [📚 Documentation](docs/Documentation.md)
@@ -14,15 +16,48 @@
 ---
 
 ![Screenshot 2025-04-21 100937](https://github.com/user-attachments/assets/2bdf6d6a-61e6-439e-900a-401a6503c7b9)
-# 🛠️ Built for Creators Who Automate
+
+## Why This Tool Was Built
+Modern creators juggle speed, quality, and originality. We built this app to **automate the repetitive, spark fresh ideas, and generate consistent visual assets** using the latest in AI.
+
+## Why You’ll Love It
+- **Instant inspiration:** Describe a vibe, theme, or object—get a fully-formed visual prompt.
+- **Batch generate:** Quickly produce multiple visual variations with SDXL-quality output.
+- **Smart pipeline:** From prompt → image → metadata → ready-to-upload files.
+- **Works offline:** Powered by local LLM and ComfyUI, no cloud fees or internet required.
+
+## Ideal For
+- Graphic Designers
+- Art Directors
+- Creative Freelancers
+- Social Media Managers
+- Visual Storytellers
+
+## How It Works
+**1. Pick a Theme**
+- Enter your concept, keywords, or scene idea.
+
+**2. Generate Visual Prompts**
+- Let the AI suggest clean, structured prompt sets.
+
+**3. Batch Image Generation**
+- ComfyUI handles the render pipeline in local high-res.
+
+**4. Metadata Magic**
+- Embed title, keywords, and descriptions auto-generated for stock sites.
+
+**5. Export & Upload**
+- Final assets ready for use or submission.
+
+# 🛠️ Built for Creators & Designers Who Automate
 
 - 💬 Create AI-powered prompts
 - 🖼️ Generate images via ComfyUI
 - 🏷️ Inject metadata automatically
 - 📄 Upload to stock sites (Dreamstime, Adobe)
 - 0️⃣ **ZERO SETUP** if you already using ComfyUI & Ollama
-- 📌 Follow company policy NOT to use online AI
 - 🆓 **ZERO COST** on own PC
+- 📌 Follow company policy NOT to use online AI
 
 # Why You Might Need This
 ## Pain Points Solved
