@@ -68,18 +68,11 @@ C:\Users\xxx\Documents\ComfyUI\
 
 ## 3. 🔌 Install Custom Nodes & Models
 
-### A. WAS Node Suite
+### WAS Node Suite
 
 ```bash
 cd C:\Users\xxx\Documents\ComfyUI\custom_nodes
 git clone https://github.com/WASasquatch/was-node-suite-comfyui.git
-```
-
-### B. KSamplerAdvanced (Optional but Recommended)
-
-```bash
-cd C:\Users\xxx\Documents\ComfyUI\custom_nodes
-git clone https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet.git
 ```
 
 ---
