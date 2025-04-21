@@ -1,91 +1,99 @@
-# ![Screenshot 2025-04-21 102643](https://github.com/user-attachments/assets/f322d9cc-1adf-45d4-a38d-4764f62cf7bd) MLT Stock Image Automation Assistant
-# Documentation & Usage Guide
+# ![MLT Logo](https://github.com/user-attachments/assets/f322d9cc-1adf-45d4-a38d-4764f62cf7bd) MLT Stock Image Automation Assistant
 
-**MLT Stock Image Assistant** is a Windows GUI tool designed to streamline the entire process of AI-based stock image generation, tagging, and publishing to stock sites such as Dreamstime. Built for creators and coders, it combines Ollama, ComfyUI, and Python automation under one user-friendly interface.
+## Documentation & Usage Guide
 
-# Quick links:
-- [🏠 Home](README.md)
-- [📚 Documentation](docs/Documentation.md)
-- [🛠 Installation](docs/INSTALLATION_GUIDE.md)
-
-# 🚀 Usage Guide sequences & what each button does
-![Screenshot 2025-04-21 142959](https://github.com/user-attachments/assets/d4e3e899-8e4c-452b-8500-ac7715d274be)
+**MLT Stock Image Assistant** is a Windows GUI tool designed to streamline the entire process of AI-based stock image generation, tagging, and publishing to stock sites such as Dreamstime. Built for creators and coders, it combines **Ollama**, **ComfyUI**, and **Python automation** under one user-friendly interface.
 
 ---
 
-## 🚀 Features Detail
+## 🔗 Quick Links
+- [🏠 Home](README.md)
+- [📚 Documentation](docs/Documentation.md)
+- [🛠 Installation Guide](docs/INSTALLATION_GUIDE.md)
+
+---
+
+## 🚀 Usage Sequence & Button Guide
+
+![App Screenshot](https://github.com/user-attachments/assets/d4e3e899-8e4c-452b-8500-ac7715d274be)
+
+---
+
+## 🧠 Feature Highlights
 
 - **Prompt Generation with Ollama LLM (e.g., Mistral)**
   - Automatically creates 10 high-quality prompts using a local language model
-  - Clean, structured format with Title, Description, Keywords
+  - Clean format with `Title`, `Description`, and `Keywords`
+
 - **Flattened Prompt Conversion**
-  - Converts prompts into a single line ComfyUI-compatible format for batch processing
+  - Converts prompts into single-line ComfyUI-compatible format for batch processing
+
 - **One-click ComfyUI Launch**
   - Launches ComfyUI and waits until the API is ready
+
 - **Automated Image Generation**
   - Queues jobs into ComfyUI using SDXL workflow
-  - Model seed will be randomized
-  - sd_xl_base_1.0.safetensors + sd_xl_refiner_1.0.safetensors + dpmpp_2m_sde_gpu + karras + RealESRGAN_x4plus.pth
-- **Image Count Wait**
-  - Waits until expected number of JPGs are generated
-- **Metadata Embedding + CSV Generation**
-  - Transfers prompt data into IPTC metadata (JPG)
-  - Prepares Adobe Stock-compatible CSV
-- **Output File Management**
-  - Moves generated JPGs and PNGs into timestamped folders
-  - JPG and PNG separated into different folders
+  - Randomizes model seed
+  - Uses: `sd_xl_base_1.0.safetensors`, `sd_xl_refiner_1.0.safetensors`, `dpmpp_2m_sde_gpu`, `karras`, `RealESRGAN_x4plus.pth`
+
+- **Image Completion Wait Logic**
+  - Waits for expected number of JPGs to be generated before proceeding
+
+- **Metadata Embedding + CSV Creation**
+  - Injects Title, Description, Keywords into JPG IPTC metadata
+  - Generates Adobe Stock-compatible CSV
+
+- **Output Management**
+  - Sorts JPG and PNG files into timestamped folders (`YYYYMMDDHHMM`)
+  - Ensures no overwrite of previous batches
+
 - **FTP Upload (optional)**
-  - Automatically uploads LATEST folder via FTP (LATEST = Last batch image creation)
+  - Uploads latest image batch via FTP to a stock site
+  - LATEST = most recent `timestamped folder`
 
+---
 
-# 📘 Stock Image Automation - User Guide & Some tips
-1. Generate Prompt
-   - Enter your wanted image description in "Prompt Theme" text box
-   - Negative prompts already build-in to prevent low quality, malform hand/ limbs & NSFW
-     
-2. Open prompt
-   - Can generate with other tool and paste here.
-   - Make sure ask online AI to generate with this format (no bullet)
-     - Title:
-     - Description:
-     - Keywords:
-   - Paste 2 copies of the same prompt set to get more variety of images (PRO)
-   - **Note:** this file is for jpg data embed metadata
+## 📘 How to Use + Tips
 
-3. Flatten prompt
-   - this is to generate prompt into single line per prompt to start image creation
-   - No max prompt limit (PRO)
+### 1. Generate Prompt
+- Enter theme/idea into the **"Prompt Theme"** box
+- Built-in negative prompts avoid malformed hands, limbs, or NSFW content
 
-4. Generate image
-   - You may see token error >77 in ComfyUI window, this is normal as our prompt is prepare in consideration of metadata mapping in JPG too
-   - If you see one JPG image metadata mapping error and proceeding to next, the later prompts will be map correctly skipping the error one.
+### 2. Open Prompt
+- You may paste prompts from other tools
+- Format must be:
+- Paste the prompt twice (PRO) for more image variety
+- This is the source for embedding metadata into JPGs
 
-5. Open JPG folder
-   - You will find many folders with number in YearMonthDayHourMinute format
-     This is to ensure all images created are kept and avoid overwrite issue
-   - ComfyUI default output PNG.
-   - Image in folders here are all JPG upscale using RealESRGAN_x4plus.pth to ensure image is at least 3MB for image 1344 x 768 & 768 x 1344.
-   - **Important:** QC and delete not satisfied image before click upload
-   - A csv file created in this folder, title and keywords table compatible Adobe upload format. 
-     You can directly use this file even if you deleted some low quality photos here
+### 3. Flatten Prompt
+- Converts prompts to single-line format for ComfyUI
+- **No prompt limit in PRO version**
 
-6. Upload FTP
-   - You can go to Account of respective stock image site to find URL, ID & password instruction 
-   - When you click upload, it will only upload JPG in latest timestamp YearMonthDayHourMinute folder
-   - After upload, you still need to go to upload website, check AI tag, description AI generation are done, just click next
+### 4. Generate Image
+- Token errors (`>77`) in ComfyUI are expected and safe to ignore
+- If a JPG metadata mapping fails, the next ones will still work
 
-7. Tips
-   - If you notice image generation very slow, check Task manager to see if ollama taking up GPU resource (End the Task)
-   - If you are creating big batch of images repeatedly, it is recommended to restart PC especially if you are not monitoring it
-   - If you started Generate Image half way & want to restart the prompt creation process etc, do close the app and restart app.
-     (The log will continue to track image count based on earlier queue if not restart)
+### 5. Open JPG Folder
+- Output folders use timestamp format `YYYYMMDDHHMM`
+- JPGs are separated and upscaled with `RealESRGAN_x4plus.pth` to ensure size ≥ 3MB
+- **Important:** Manually delete any low-quality images before uploading
+- CSV file is generated with Title/Keywords ready for Adobe Stock—even if some images are deleted
 
-8. **Known issue:**
-   - If you see last image e.g. image 100 mapping failure, that means it accidently skip one line somewhere.
-     ***(Solution1:)*** use exif viewer to check back earlier jpg (manual process), error occurs somewhere 80-90 JPG based on testing.
-     You can use **XnView MP** to view & check metadata and picture with ease
-     ***(Solution2:)*** create image in smaller batches
+### 6. Upload via FTP
+- Set FTP URL, username, and password in the app
+- Only JPGs in the **latest timestamped folder** will be uploaded
+- After upload, visit the site to confirm tags/descriptions, then submit
 
+### 7. Tips
+- If generation is slow, check if **Ollama** is using GPU—terminate via Task Manager
+- For big batches, **restart your PC** before starting
+- If restarting midway, **exit and relaunch the app** to reset queue tracking
 
+### 8. Known Issues
+- If the **last image (e.g., #100)** has broken metadata, it might’ve skipped a line
+- **Solutions:**
+- 🛠 **Manual:** Use an EXIF viewer (e.g., **XnView MP**) to check for the skipped image
+- ⚠️ **Avoid:** Generate smaller batches (e.g., 50 instead of 100)
 
+---
 
