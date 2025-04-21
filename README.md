@@ -2,6 +2,10 @@
 ![Screenshot 2025-04-21 100937](https://github.com/user-attachments/assets/2bdf6d6a-61e6-439e-900a-401a6503c7b9)
 
 
+Quick links:
+- [📚 Documentation](docs/index.md)
+- [🛠 Installation](docs/install.md)
+
 
 # 🛠️ Built for Creators Who Automate
 
