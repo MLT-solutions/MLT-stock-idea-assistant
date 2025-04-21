@@ -1,4 +1,4 @@
-#MLT Stock Image Automation Assistant
+# MLT Stock Image Automation Assistant
 
 ## 🛠️ Built for Creators Who Automate
 
@@ -45,4 +45,12 @@ A: SDXL via ComfyUI + optional Ollama LLM locally + WAS nodes
 ## Known Limitations
 - Not optimized for mobile workflows (desktop only)
 - Even though negative prompts build-in in App, you may still still malform hands
+
+## ☕ Buy Me a Coffee
+[PayPal Coffee Support Link](https://www.buymeacoffee.com/mattchoo2)
+
+## 🚀 Upgrade to PRO
+[Gumroad Link to Purchase](https://matthewcraft7.gumroad.com/l/qwwvb)
+
+Includes  no prompt limit.
   
