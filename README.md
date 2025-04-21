@@ -24,11 +24,12 @@ Quick links:
 - ComfyUI batch setup complexity
 - No metadata in JPGs
 - Uploading to stock sites one-by-one
+- Manual image title and keywords entry
 
 ## This App Is For You If:
 - You generate lots of AI art
 - You want to automate stock uploads
-- You enjoy organized workflows
+- You enjoy organized & simplified workflows
 
 # Features / Free vs Pro
 ***Important:*** This is a bridge. You will still need to **install Ollama & ComfyUI** installed on your Machine (SDXL ideally need 12GB VRAM)
@@ -62,14 +63,14 @@ Quick links:
 
 
 ## Requirements:
-- Windows 11
+- Windows 11 with GPU (Ideally 12GB VRAM)
 - Ollama
 - ComfyUI installed via CLI
 
 
-### ✅ What You're Providing
+### ✅ What am I Providing
 - GUI and automation bridge only — not the models
-- You do **not** bundle Ollama, Mistral weights, or SDXL models
+- I do **not** bundle Ollama, Mistral weights, or SDXL models
 
 ## FAQ
 **Q: Can it run on Mac?**  
