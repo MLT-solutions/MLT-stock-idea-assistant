@@ -1,11 +1,10 @@
-# ![Screenshot 2025-04-21 102643](https://github.com/user-attachments/assets/f322d9cc-1adf-45d4-a38d-4764f62cf7bd) MLT Stock Image Assistant
+# ![Screenshot 2025-04-21 102643](https://github.com/user-attachments/assets/f322d9cc-1adf-45d4-a38d-4764f62cf7bd) MLT Stock Idea Assistant
 # Use Cases
 
 ![Screenshot 2025-04-21 222430](https://github.com/user-attachments/assets/28f6c8d8-3c5b-4cf8-96ff-ab57d851bc57)
 
-## Your AI-Powered Visual Ideation Companion
-
-Design smarter, not harder. Whether you're a designer, content creator, or visual storyteller—this tool helps you go from concept to visual faster than ever. No more blank canvas anxiety.
+## “Your private AI-powered visual assistant that goes from spark to stock-ready.”
+Designers, marketers, and solopreneurs — this is your fast lane from idea to income.
 
 ## Quick links:
 - [🏠 Home](../README.md)
