@@ -107,5 +107,7 @@ DecompressionBombWarning: Image size (103219200 pixels) exceeds limit of 8947848
 - Pillow sets a default limit of 89,478,485 pixels to prevent denial-of-service (DOS) attacks from opening maliciously large files that consume too much memory.
 
 
+
+
 ---
 

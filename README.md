@@ -6,6 +6,7 @@
 
 # Quick links:
 - [🏠 Home](README.md)
+- [🎯 Use Case](docs/case.md)
 - [📚 Documentation](docs/Documentation.md)
 - [🛠 Installation](docs/INSTALLATION_GUIDE.md)
 - [👀 Sample Outcome](sample/sample.md)
@@ -21,6 +22,7 @@
 - 📄 Upload to stock sites (Dreamstime, Adobe)
 - 0️⃣ **ZERO SETUP** if you already using ComfyUI & Ollama
 - 📌 Follow company policy NOT to use online AI
+- 🆓 **ZERO COST** on own PC
 
 # Why You Might Need This
 ## Pain Points Solved
@@ -31,6 +33,7 @@
 - Manual image title and keywords entry
 
 ## This App Is For You If:
+- You need a visualization idea pool
 - You generate lots of AI art
 - You want to automate stock uploads
 - You enjoy organized & simplified workflows
