@@ -99,13 +99,6 @@
 - **Solutions:**
 - 🛠 **Manual:** Use an EXIF viewer (e.g., **XnView MP**) to check for the skipped image
 - ⚠️ **Avoid:** Generate smaller batches (e.g., 50 instead of 100)
-- ⚠️ DecompressionBombWarning
-```
-DecompressionBombWarning: Image size (103219200 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
-```
-🔍 What It Means:
-- Your image is very large: 103,219,200 pixels (e.g., 12,000 × 8,600).
-- Pillow sets a default limit of 89,478,485 pixels to prevent denial-of-service (DOS) attacks from opening maliciously large files that consume too much memory.
 
 
 
