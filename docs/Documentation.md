@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/ecf069e2-bc52-4e58-9a50-97ef8abc2ba3)# MLT Stock Image Automation Assistant
+# ![Screenshot 2025-04-21 102643](https://github.com/user-attachments/assets/f322d9cc-1adf-45d4-a38d-4764f62cf7bd) MLT Stock Image Automation Assistant
+![image](https://github.com/user-attachments/assets/ecf069e2-bc52-4e58-9a50-97ef8abc2ba3)
+
 
 **MLT Image Automation** is a Windows GUI tool designed to streamline the entire process of AI-based stock image generation, tagging, and publishing to stock sites such as Dreamstime. Built for creators and coders, it combines Ollama, ComfyUI, and Python automation under one user-friendly interface.
 
@@ -24,6 +26,7 @@
 - **Automated Image Generation**
   - Queues jobs into ComfyUI using SDXL workflow
   - Model seed will be randomized
+  - sd_xl_base_1.0.safetensors + sd_xl_refiner_1.0.safetensors + dpmpp_2m_sde_gpu + karras + RealESRGAN_x4plus.pth
 - **Image Count Wait**
   - Waits until expected number of JPGs are generated
 - **Metadata Embedding + CSV Generation**
@@ -34,61 +37,6 @@
   - JPG and PNG separated into different folders
 - **FTP Upload (optional)**
   - Automatically uploads LATEST folder via FTP (LATEST = Last batch image creation)
-
-# 📘 Stock Image Automation - User Guide
-
-## ✅ Method 1 - Online AI Prompt Creation
-
-1. Open `prompts.txt` and paste your AI-generated prompts.
-   - ✅ Recommended: Paste 2 copies of the same prompt set to ensure metadata matches across image sets.
-2. Run the app:
-   - Either `python main_workflow.py` or click through the GUI.
-3. In the CLI or GUI:
-   - Select **Step 2** to flatten the prompt.
-   - The app will auto-run up to **Step 7** (image generation + metadata + moving to folder).
-4. After reviewing and deleting unwanted `.jpg` files:
-   - Select **Step 8** to upload approved images to Dreamstime via FTP.
-
----
-
-## ✅ Method 2 - Local Mistral LLM Prompt Creation
-
-1. (Optional) Edit the prompt design logic in `1prompt.py` or adjust workflow in `main_workflow.py`.
-2. Run the app:
-   - Either `python main_workflow.py` or launch from GUI.
-3. In the CLI or GUI:
-   - Select **Step 1** to generate prompts with Mistral.
-   - The app will auto-run from Step 2 to Step 7.
-4. After reviewing and deleting unwanted `.jpg` files:
-   - Select **Step 8** to upload the good ones to Dreamstime via FTP.
-
----
-
-## 🛠 ComfyUI Setup Notes (One-Time Installation)
-
-1. Install ComfyUI in `C:` or `C:/Users/<yourname>/Documents` for path consistency.
-2. Launch ComfyUI manually once.
-3. Browse to and **open the "SDXL Simple" workflow** template.
-4. Download the following:
-   - ✅ **SDXL Model** (for base and refiner)
-   - ✅ **RealESRGAN Upscaler** model
-5. Ensure the following ComfyUI nodes are working (as used in script):
-   - `KSamplerAdvanced`
-   - `CLIPTextEncode`
-   - `RealESRGAN_x4plus.pth` model in upscaler
-
----
-
-Enjoy automating your AI-driven stock image workflow!
-
-
-
-
-
-Ideal folder structure
-
-https://matthewcraft7.gumroad.com/l/qwwvb
-
 
 
 # 📘 Stock Image Automation - User Guide & Some tips
