@@ -1,4 +1,4 @@
-# ![Screenshot 2025-04-21 102643](https://github.com/user-attachments/assets/f322d9cc-1adf-45d4-a38d-4764f62cf7bd) MLT Stock Image Automation Assistant
+# ![Screenshot 2025-04-21 102643](https://github.com/user-attachments/assets/f322d9cc-1adf-45d4-a38d-4764f62cf7bd) MLT Stock Image Assistant
 # Use Cases
 
 ![Screenshot 2025-04-21 222430](https://github.com/user-attachments/assets/28f6c8d8-3c5b-4cf8-96ff-ab57d851bc57)
