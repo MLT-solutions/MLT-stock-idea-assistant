@@ -12,7 +12,7 @@
 
 ---
 
-## Set 1
+## Set 1 - Stock Image Creation Samples (can save image to check metadata)
 [csv metadata](Set1/metadata.csv)
 ![Image 1](Set1/mjpg_00001_.jpg)
 ![Image 2](Set1/mjpg_00002_.jpg)
