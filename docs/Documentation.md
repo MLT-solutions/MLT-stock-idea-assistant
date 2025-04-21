@@ -104,7 +104,7 @@
 
 ### 5. Open JPG Folder
 - Output folders use timestamp format `YYYYMMDDHHMM`
-- JPGs are separated and upscaled with `RealESRGAN_x4plus.pth` to ensure size ≥ 3MB for 1344 x 768 & 768 x 1344.
+- JPGs are separated and upscaled with `RealESRGAN_x4plus.pth` to ensure size ≥ 3MB 
 - **Important:** Manually delete any low-quality images before uploading
 - CSV file is generated with Title/Keywords ready for Adobe Stock—even if some images are deleted
 
