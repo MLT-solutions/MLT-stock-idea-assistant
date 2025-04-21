@@ -60,6 +60,10 @@
 - ComfyUI installed via CLI
 
 
+### ✅ What You're Providing
+- GUI and automation bridge only — not the models
+- You do **not** bundle Ollama, Mistral weights, or SDXL models
+
 ## FAQ
 **Q: Can it run on Mac?**  
 A: It is Windows-optimized and not work on Mac.
@@ -82,3 +86,5 @@ A: SDXL via ComfyUI + optional Ollama LLM locally + WAS nodes
 
 Includes  no prompt limit.
   
+### 🛡 Disclaimer:
+> *MLT Stock Image Assistant is an independent tool that assists with AI-based image generation automation. This software does not include or distribute any AI model weights (e.g., Mistral, SDXL), and it assumes the user has properly licensed or downloaded those models independently from their official sources. This tool is not affiliated with Ollama, StabilityAI, Adobe or Dreamstime.*
