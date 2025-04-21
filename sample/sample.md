@@ -28,13 +28,12 @@
 ## Set 2
 [csv metadata](Set2/metadata.csv)
 ![Image 12](Set2/mjpg_00002_.jpg)
-![Image 13](Set2/mjpg_00003_.jpg)
-![Image 14](Set2/mjpg_00004_.jpg)
-![Image 15](Set2/mjpg_00005_.jpg)
-![Image 16](Set2/mjpg_00006_.jpg)
-![Image 17](Set2/mjpg_00007_.jpg)
-![Image 18](Set2/mjpg_00008_.jpg)
-![Image 19](Set2/mjpg_00009_.jpg)
+![Image 13](Set2/mjpg_00005_.jpg)
+![Image 14](Set2/mjpg_00006_.jpg)
+![Image 15](Set2/mjpg_00007_.jpg)
+![Image 16](Set2/mjpg_00008_.jpg)
+![Image 17](Set2/mjpg_00010_.jpg)
+
 
 
 ## Set 3
