@@ -1,4 +1,6 @@
 # MLT Stock Image Automation Assistant
+![Screenshot 2025-04-21 100937](https://github.com/user-attachments/assets/2bdf6d6a-61e6-439e-900a-401a6503c7b9)
+
 
 ## 🛠️ Built for Creators Who Automate
 
@@ -25,17 +27,26 @@
 | Feature                      | Free Mode         | Pro Mode        |
 |-----------------------------|-------------------|-----------------|
 | Max Prompts per Batch       | 3                 | Unlimited       |
-| Auto Dependency Check       | ✅                | ✅              |
-| Metadata Injection          | ✅                | ✅              |
-| FTP Auto Upload             | ✅                | ✅              |
+| Use Manual Prompts          | ✅                | ✅              |
+| Flatten Prompt Batch        | ✅                | ✅              |
 | CLI ComfyUI Launch          | ✅                | ✅              |
+| Auto Seed Randomization     | ✅                | ✅              |
+| Batch Image Generation      | ✅                | ✅              |
+| Metadata Injection          | ✅                | ✅              |
+| Auto Separate PNG/ JPG files | ✅                | ✅              |
+| One-click FTP Upload        | ✅                | ✅              |
+|-----------------------------|-------------------|-----------------|
+| Auto Dependency Check       | ✅                | ✅              |
 | Resolution Selection        | ✅                | ✅              |
 | CFG Scale                   | ✅                | ✅              |
+| Flexible Folder Mapping     | ✅                | ✅              |
+
 
 ## Dependency Checker & Installation Guide: Provided in App
+![Screenshot 2025-04-21 100314](https://github.com/user-attachments/assets/c74dfaf8-1fca-44cb-acef-bee0e45411ea)
 
-
-
+## Flexible Folder Mapping
+![Screenshot 2025-04-21 100818](https://github.com/user-attachments/assets/d7c74574-67f0-41ea-994a-9fdc7e710c51)
 
 
 ## Requirements:
