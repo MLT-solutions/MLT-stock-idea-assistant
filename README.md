@@ -31,8 +31,10 @@
 | Flatten Prompt Batch        | ✅                | ✅              |
 | CLI ComfyUI Launch          | ✅                | ✅              |
 | Auto Seed Randomization     | ✅                | ✅              |
-| Batch Image Generation      | ✅                | ✅              |
-| Metadata Injection          | ✅                | ✅              |
+| Batch Image Generation (PNG) | ✅                | ✅              |
+| Batch Image Upscale (RealESRGAN_x4plus.pt) | ✅                | ✅              |
+| Batch PNG to JPG conversion | ✅                | ✅              |
+| JPG Metadata Injection       | ✅                | ✅              |
 | Auto Separate PNG/ JPG files | ✅                | ✅              |
 | One-click FTP Upload        | ✅                | ✅              |
 |-----------------------------|-------------------|-----------------|
