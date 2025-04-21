@@ -29,6 +29,7 @@
 | Feature                      | Free Mode         | Pro Mode        |
 |-----------------------------|-------------------|-----------------|
 | Max Prompts/ Images per Batch       | 3                 | Unlimited       |
+| Enter "Prompt Theme" Auto Generate Prompts          | ✅                | ✅              |
 | Use Manual Prompts          | ✅                | ✅              |
 | Flatten Prompt Batch        | ✅                | ✅              |
 | CLI ComfyUI Launch          | ✅                | ✅              |
