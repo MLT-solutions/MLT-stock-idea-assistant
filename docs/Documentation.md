@@ -23,7 +23,7 @@
 
 - **Prompt Generation with Ollama LLM (e.g., Mistral)**
   - Automatically creates 10 high-quality prompts using a local language model
-  - Clean format with `Title`, `Description`, and `Keywords`
+  - Clean format with `Title`, `Description`, and `Keywords` (new lines for each)
 
 - **Flattened Prompt Conversion**
   - Converts prompts into single-line ComfyUI-compatible format for batch processing
