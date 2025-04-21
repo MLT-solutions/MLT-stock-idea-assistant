@@ -5,6 +5,7 @@
 
 # Quick links:
 - [🏠 Home](../README.md)
+- [🎯 Use Cases](../docs/case.md)
 - [📚 Documentation](../docs/Documentation.md)
 - [🛠 Installation](../docs/INSTALLATION_GUIDE.md)
 - [👀 Sample Outcome](sample.md)
