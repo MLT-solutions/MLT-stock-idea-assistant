@@ -26,7 +26,7 @@
 
 | Feature                      | Free Mode         | Pro Mode        |
 |-----------------------------|-------------------|-----------------|
-| Max Prompts per Batch       | 3                 | Unlimited       |
+| Max Prompts/ Images per Batch       | 3                 | Unlimited       |
 | Use Manual Prompts          | ✅                | ✅              |
 | Flatten Prompt Batch        | ✅                | ✅              |
 | CLI ComfyUI Launch          | ✅                | ✅              |
