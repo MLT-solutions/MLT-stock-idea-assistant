@@ -11,7 +11,8 @@
 - [🏠 Home](../README.md)
 - [📚 Documentation](Documentation.md)
 - [🛠 Installation](INSTALLATION_GUIDE.md)
-
+- [👀 Sample Outcome](../sample/sample.md)
+  
 ---
 
 ## Dependency Checker & Installation Guide: Provided in App
