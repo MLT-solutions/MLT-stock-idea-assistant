@@ -1,4 +1,5 @@
 # ![Screenshot 2025-04-21 102643](https://github.com/user-attachments/assets/f322d9cc-1adf-45d4-a38d-4764f62cf7bd) MLT Stock Image Automation Assistant
+# Installation Documentation
 ![image](https://github.com/user-attachments/assets/ecf069e2-bc52-4e58-9a50-97ef8abc2ba3)
 
 ## Installation Documentation
@@ -9,6 +10,7 @@
 
 # Quick links:
 - [🏠 Home](../README.md)
+- [🎯 Use Cases](case.md)
 - [📚 Documentation](Documentation.md)
 - [🛠 Installation](INSTALLATION_GUIDE.md)
 - [👀 Sample Outcome](../sample/sample.md)
