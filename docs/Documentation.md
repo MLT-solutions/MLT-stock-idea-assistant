@@ -7,9 +7,9 @@
 --- 
 
 ## 🔗 Quick Links
-- [🏠 Home](README.md)
-- [📚 Documentation](docs/Documentation.md)
-- [🛠 Installation Guide](docs/INSTALLATION_GUIDE.md)
+- [🏠 Home](../README.md)
+- [📚 Documentation](Documentation.md)
+- [🛠 Installation Guide](INSTALLATION_GUIDE.md)
 
 ---
 
