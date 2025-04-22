@@ -15,7 +15,8 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
 
 
 ---
-![Screenshot 2025-04-22 080434](https://github.com/user-attachments/assets/cb1e244d-271b-4a3c-a8ec-b9bd6bbf7fc1)
+![Screenshot 2025-04-22 131934](https://github.com/user-attachments/assets/d0c23c38-2eae-404a-8003-fd67044eb1df)
+![Screenshot 2025-04-22 132058](https://github.com/user-attachments/assets/e0e08828-b49c-4e76-b2c6-141423e59679)
 
 ## Why This Tool Was Built
 Modern creators juggle speed, quality, and originality. We built this app to **automate the repetitive, spark fresh ideas, and generate consistent visual assets** using the latest in AI.
