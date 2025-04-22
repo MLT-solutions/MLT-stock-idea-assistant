@@ -1,10 +1,3 @@
----
-title: "MLT Stock Idea Assistant"
-layout: single
-
----
-
-
 # ![Matt Stock Automation-white small](https://github.com/user-attachments/assets/d93b4a58-50cf-4bbd-a603-c0a40f2406e9) MLT Stock Idea Assistant
 # Introduction
 ![Screenshot 2025-04-22 074719](https://github.com/user-attachments/assets/1775b062-93e0-449d-ba37-293ae43e8c8f)
