@@ -85,7 +85,7 @@ Modern creators juggle speed, quality, and originality. We built this app to **a
 
 
 ## Requirements:
-- Windows 11 with GPU (Ideally 12GB VRAM)
+- Windows 11 with GPU (Ideally 8GB VRAM and above)
 - Ollama
 - ComfyUI installed via CLI
 
