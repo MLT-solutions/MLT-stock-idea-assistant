@@ -134,7 +134,7 @@ A: SDXL via ComfyUI + optional Ollama LLM locally + WAS nodes
 This free version is licensed for **personal, non-commercial use** only.  
 Commercial use requires a [Business License](docs/LICENSE_BUSINESS.txt).
 
-🔒 See [LICENSE_PERSONAL.txt](docs/LICENSE_PERSONAL.txt) for full terms.
+🔒 See [Personal License](docs/LICENSE_PERSONAL.txt) for full terms.
 
   
 ### 🛡 Disclaimer:
