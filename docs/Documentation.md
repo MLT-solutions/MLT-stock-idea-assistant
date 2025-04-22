@@ -44,7 +44,7 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
 - **No prompt limit in PRO version**
 
 ### 4. Generate Image
-- SDXL Resolution supported (before upscale)
+- SDXL Native Resolution supported (before upscale)
   -  1024 x 1024
   -  1152 x 896
   -  896 x 1152
