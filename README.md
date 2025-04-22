@@ -65,30 +65,11 @@ Whether you’re crafting stock visuals, building a theme pack, or just experime
 # Features / Free vs Pro
 ***Important:*** This is a bridge. You will still need to **install Ollama & ComfyUI** installed on your Machine (SDXL ideally need 8GB VRAM+)
 
-| Feature                      | Free Mode         | Pro Mode        |
-|-----------------------------|-------------------|-----------------|
-| One-Time Cost               |     USD 0                |   USD 19.99 |
-| Max Prompts/ Images per Batch       | 3                 | Unlimited       |
-| Enter "Prompt Theme" Auto Generate Prompts          | ✅                | ✅              |
-| Use Manual Prompts          | ✅                | ✅              |
-| Flatten Prompt Batch        | ✅                | ✅              |
-| CLI ComfyUI Launch          | ✅                | ✅              |
-| Auto Seed Randomization     | ✅                | ✅              |
-| Batch Image Generation (PNG) | ✅                | ✅              |
-| Batch Image Upscale (RealESRGAN_x4plus.pt) | ✅                | ✅              |
-| Batch PNG to JPG conversion | ✅                | ✅              |
-| JPG Metadata Injection       | ✅                | ✅              |
-| Auto Separate PNG/ JPG files | ✅                | ✅              |
-| One-click FTP Upload        | ✅                | ✅              |
-|-----------------------------|-------------------|-----------------|
-| Auto Dependency Check       | ✅                | ✅              |
-| Resolution Selection        | ✅                | ✅              |
-| CFG Scale                   | ✅                | ✅              |
-| Flexible Folder Mapping     | ✅                | ✅              |
-
-| Feature                                 | Free Mode         | PRO (Personal)     | PRO (Business)        |
+| Features                                 | Free Mode         | PRO (Personal)     | PRO (Business)        |
 |-----------------------------------------|-------------------|--------------------|------------------------|
 | One-Time Cost                            | USD 0             | USD 29.99          | USD 59.99              |
+| Commercial Use                         | ❌ Not allowed   | ✅ Yes (for self-use) | ✅ Yes (for clients & business use) |
+| Use on Multiple Devices                | 1 device only    | Up to 2 devices       | Up to 3 devices         |
 | Max Prompts/ Images per Batch            | 3                 | Unlimited          | Unlimited              |
 | Enter "Prompt Theme" Auto Generate Prompts | ✅                | ✅                  | ✅                     |
 | Use Manual Prompts                       | ✅                | ✅                  | ✅                     |
