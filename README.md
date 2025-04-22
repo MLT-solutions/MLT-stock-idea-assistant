@@ -44,17 +44,17 @@ We believe that **the most powerful AI tools shouldn't be limited to engineers o
 That’s where this app steps in.
 
 ## 🔓 We designed this assistant to:
-🧠 **Feel like a creative co-pilot**, not a control panel
-🛠️ **Automate the heavy lifting** — from prompt generation to image creation to metadata tagging and uploads
-🗾 **Simplify complex pipeline**s into clean, click-to-go steps
-📅 **Work locally and offline** — no cloud lock-in, full privacy and control
-✨ **Bridge the gap between imagination and execution**, with zero need for terminal commands or coding knowledge
+- 🧠 **Feel like a creative co-pilot**, not a control panel
+- 🛠️ **Automate the heavy lifting** — from prompt generation to image creation to metadata tagging and uploads
+- 🗾 **Simplify complex pipeline**s into clean, click-to-go steps
+- 📅 **Work locally and offline** — no cloud lock-in, full privacy and control
+- ✨ **Bridge the gap between imagination and execution**, with zero need for terminal commands or coding knowledge
 
 ## 🎯 What We Value
-**Simplicity without sacrificing power
-Offline-first privacy and independence
-Freedom to experiment and iterate fast
-Speed for rapid ideation and consistent output**
+- **Simplicity without sacrificing power**
+- **Offline-first privacy and independence**
+- **Freedom to experiment and iterate fast**
+- **Speed for rapid ideation and consistent output**
 
 Whether you’re crafting stock visuals, building a theme pack, or just experimenting — **MLT Stock Idea Assistant removes the friction and sparks momentum.**
 
