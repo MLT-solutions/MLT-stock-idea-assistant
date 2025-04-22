@@ -35,39 +35,30 @@ Modern creators juggle speed, quality, and originality. We built this app to **a
 
 ---
 
-✨ Design Philosophy
+# ✨ Design Philosophy
 
-MLT Stock Idea Assistant was built to empower non-coders and solo creatives with a one-click solution to streamline everything from visual ideation to stock-ready image automation — without needing to touch command line, understand Python scripts, or juggle metadata formats.
+**MLT Stock Idea Assistant was built to empower non-coders and solo creatives** with **a one-click solution** to streamline everything from visual ideation to stock-ready image automation — without needing to touch command line, understand Python scripts, or juggle metadata formats.
 
-We believe that the most powerful AI tools shouldn't be limited to engineers or developers. Tools like local LLMs (via Ollama) and image generators (like ComfyUI) are incredibly capable — but their complexity can alienate the very users who need them most: designers, marketers, and content creators.
+We believe that **the most powerful AI tools shouldn't be limited to engineers or developers**. Tools like local LLMs (via Ollama) and image generators (like ComfyUI) are incredibly capable — but their complexity can alienate the very users who need them most: designers, marketers, and content creators.
 
 That’s where this app steps in.
 
-🔓 We designed this assistant to:
+## 🔓 We designed this assistant to:
+🧠 **Feel like a creative co-pilot**, not a control panel
+🛠️ **Automate the heavy lifting** — from prompt generation to image creation to metadata tagging and uploads
+🗾 **Simplify complex pipeline**s into clean, click-to-go steps
+📅 **Work locally and offline** — no cloud lock-in, full privacy and control
+✨ **Bridge the gap between imagination and execution**, with zero need for terminal commands or coding knowledge
 
-🧠 Feel like a creative co-pilot, not a control panel
-
-🛠️ Automate the heavy lifting — from prompt generation to image creation to metadata tagging and uploads
-
-🗾 Simplify complex pipelines into clean, click-to-go steps
-
-📅 Work locally and offline — no cloud lock-in, full privacy and control
-
-✨ Bridge the gap between imagination and execution, with zero need for terminal commands or coding knowledge
-
-🎯 What We Value
-
-Simplicity without sacrificing power
-
+## 🎯 What We Value
+**Simplicity without sacrificing power
 Offline-first privacy and independence
-
 Freedom to experiment and iterate fast
+Speed for rapid ideation and consistent output**
 
-Speed for rapid ideation and consistent output
+Whether you’re crafting stock visuals, building a theme pack, or just experimenting — **MLT Stock Idea Assistant removes the friction and sparks momentum.**
 
-Whether you’re crafting stock visuals, building a theme pack, or just experimenting — MLT Stock Idea Assistant removes the friction and sparks momentum.
-
-Built by creators, for creators.
+## **Built by creators, for creators.**
 
 ---
 
