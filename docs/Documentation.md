@@ -17,70 +17,11 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
 
 ---
 
-## 🛠️ Built for Creators & Designers Who Automate
-
-- 💬 Create AI-powered prompts
-- 🖼️ Generate images via ComfyUI
-- 🏷️ Inject metadata automatically
-- 📄 Upload to stock sites (Dreamstime, Adobe)
-- 0️⃣ **ZERO SETUP** if you already using ComfyUI & Ollama
-- 🆓 **ZERO COST** on own PC
-- 📌 Follow company policy NOT to use online AI
-
-## Why You Might Need This
-### Pain Points Solved
-- Manual image renaming and sorting
-- ComfyUI batch setup complexity
-- No metadata in JPGs
-- Uploading to stock sites one-by-one
-- Manual image title and keywords entry
-
-### This App Is For You If:
-- You need a visualization idea pool
-- You generate lots of AI art
-- You want to automate stock uploads
-- You enjoy organized & simplified workflows
-
----
-
-## 🧠 Feature Highlights
-
-- **Prompt Generation with Ollama LLM (e.g., Mistral)**
-  - Automatically creates any number of high-quality prompts using a local language model (Free limit to 3)
-  - Clean format with `Title`, `Description`, and `Keywords` (new lines for each)
-
-- **Flattened Prompt Conversion**
-  - Converts prompts into single-line ComfyUI-compatible format for batch processing
-
-- **One-click ComfyUI Launch**
-  - Launches ComfyUI and waits until the API is ready
-
-- **Automated Image Generation**
-  - Queues jobs into ComfyUI using SDXL workflow
-  - Randomizes model seed
-  - Uses: `sd_xl_base_1.0.safetensors`, `sd_xl_refiner_1.0.safetensors`, `dpmpp_2m_sde_gpu`, `karras`, `RealESRGAN_x4plus.pth`
-
-- **Image Completion Wait Logic**
-  - Waits for expected number of JPGs to be generated before proceeding
-
-- **Metadata Embedding + CSV Creation**
-  - Injects Title, Description, Keywords into JPG IPTC metadata
-  - Generates Adobe Stock-compatible CSV
-
-- **Output Management**
-  - Sorts JPG and PNG files into timestamped folders (`YYYYMMDDHHMM`)
-  - Ensures no overwrite of previous batches
-
-- **FTP Upload (optional)**
-  - Uploads latest image batch via FTP to a stock site
-  - LATEST = most recent `timestamped folder`
-
----
-
 ## 🚀 Usage Sequence & Button Guide
 
 ![App Screenshot](https://github.com/user-attachments/assets/d4e3e899-8e4c-452b-8500-ac7715d274be)
 
+---
 
 ## 📘 How to Use + Tips
 
@@ -126,8 +67,37 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
 - 🛠 **Manual:** Use an EXIF viewer (e.g., **XnView MP**) to check for the skipped image
 - ⚠️ **Avoid:** Generate smaller batches (e.g., 50 instead of 100)
 
-
-
-
 ---
+
+## 🧠 Feature Highlights - Detail Mechanisms
+
+- **Prompt Generation with Ollama LLM (e.g., Mistral)**
+  - Automatically creates any number of high-quality prompts using a local language model (Free limit to 3)
+  - Clean format with `Title`, `Description`, and `Keywords` (new lines for each)
+
+- **Flattened Prompt Conversion**
+  - Converts prompts into single-line ComfyUI-compatible format for batch processing
+
+- **One-click ComfyUI Launch**
+  - Launches ComfyUI and waits until the API is ready
+
+- **Automated Image Generation**
+  - Queues jobs into ComfyUI using SDXL workflow
+  - Randomizes model seed
+  - Uses: `sd_xl_base_1.0.safetensors`, `sd_xl_refiner_1.0.safetensors`, `dpmpp_2m_sde_gpu`, `karras`, `RealESRGAN_x4plus.pth`
+
+- **Image Completion Wait Logic**
+  - Waits for expected number of JPGs to be generated before proceeding
+
+- **Metadata Embedding + CSV Creation**
+  - Injects Title, Description, Keywords into JPG IPTC metadata
+  - Generates Adobe Stock-compatible CSV
+
+- **Output Management**
+  - Sorts JPG and PNG files into timestamped folders (`YYYYMMDDHHMM`)
+  - Ensures no overwrite of previous batches
+
+- **FTP Upload (optional)**
+  - Uploads latest image batch via FTP to a stock site
+  - LATEST = most recent `timestamped folder`
 
