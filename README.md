@@ -63,7 +63,7 @@ Whether you’re crafting stock visuals, building a theme pack, or just experime
 ---
 
 # Features / Free vs Pro
-***Important:*** This is a bridge. You will still need to **install Ollama & ComfyUI** installed on your Machine (SDXL ideally need 12GB VRAM)
+***Important:*** This is a bridge. You will still need to **install Ollama & ComfyUI** installed on your Machine (SDXL ideally need 8GB VRAM+)
 
 | Feature                      | Free Mode         | Pro Mode        |
 |-----------------------------|-------------------|-----------------|
