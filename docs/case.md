@@ -15,10 +15,11 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
 
 
 ---
+![Screenshot 2025-04-22 132517](https://github.com/user-attachments/assets/8e8a777a-7972-4323-9555-227b7f9d7bbb)
+![Screenshot 2025-04-22 132528](https://github.com/user-attachments/assets/b5d93937-3362-44ea-91d7-4650e4a9db10)
+![Screenshot 2025-04-22 132538](https://github.com/user-attachments/assets/ad10be71-95dc-4510-8f9b-cd87526b4134)
+![Screenshot 2025-04-22 132549](https://github.com/user-attachments/assets/5d24690e-03f2-4bd4-b60a-417c293c20e9)
+![Screenshot 2025-04-22 132606](https://github.com/user-attachments/assets/8474e7c9-82de-4bc2-b797-d1289402da00)
+![Screenshot 2025-04-22 132506](https://github.com/user-attachments/assets/1a000230-e153-4e41-af68-94dc2401fea8)
 
-![Screenshot 2025-04-21 220401](https://github.com/user-attachments/assets/6f63f08c-1782-4ab3-a2ff-940be80217fb)
-![Screenshot 2025-04-21 220408](https://github.com/user-attachments/assets/49aed1f3-8189-4194-afd4-900839c0e01f)
-![Screenshot 2025-04-21 220416](https://github.com/user-attachments/assets/905f800f-06b9-47cd-80d8-6a7fcaf54d29)
-![Screenshot 2025-04-21 220423](https://github.com/user-attachments/assets/f1d2bec6-4630-4c9a-b764-d854c3a06cad)
-![Screenshot 2025-04-21 220431](https://github.com/user-attachments/assets/6e78c7c1-2f16-4169-8749-21f67093653f)
-![Screenshot 2025-04-21 220438](https://github.com/user-attachments/assets/3967de6e-1a30-478f-9ddf-25d9e87fb644)
+
