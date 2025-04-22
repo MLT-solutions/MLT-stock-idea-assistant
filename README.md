@@ -1,6 +1,6 @@
-# ![Screenshot 2025-04-21 102643](https://github.com/user-attachments/assets/f322d9cc-1adf-45d4-a38d-4764f62cf7bd) MLT Stock Idea Assistant
+# ![Matt Stock Automation-white small](https://github.com/user-attachments/assets/d93b4a58-50cf-4bbd-a603-c0a40f2406e9) MLT Stock Idea Assistant
 # Introduction
-![Screenshot 2025-04-21 135349](https://github.com/user-attachments/assets/b7527fab-4783-424d-a2ef-8c466639dd9f)
+![Screenshot 2025-04-22 074719](https://github.com/user-attachments/assets/1775b062-93e0-449d-ba37-293ae43e8c8f)
 ![Screenshot 2025-04-21 222430](https://github.com/user-attachments/assets/9d89146e-ed67-4e25-8447-195ea31f2529)
 
 ## “Your private AI-powered visual assistant that goes from spark to stock-ready.”
@@ -15,8 +15,7 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
 
 
 ---
-
-![Screenshot 2025-04-21 100937](https://github.com/user-attachments/assets/2bdf6d6a-61e6-439e-900a-401a6503c7b9)
+![Screenshot 2025-04-22 080434](https://github.com/user-attachments/assets/cb1e244d-271b-4a3c-a8ec-b9bd6bbf7fc1)
 
 ## Why This Tool Was Built
 Modern creators juggle speed, quality, and originality. We built this app to **automate the repetitive, spark fresh ideas, and generate consistent visual assets** using the latest in AI.
