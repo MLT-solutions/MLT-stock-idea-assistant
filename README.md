@@ -33,24 +33,43 @@ Modern creators juggle speed, quality, and originality. We built this app to **a
 - Social Media Managers
 - Visual Storytellers
 
-## How It Works
-**1. Pick a Theme**
-- Enter your concept, keywords, or scene idea.
+---
 
-**2. Generate Visual Prompts**
-- Let the AI suggest clean, structured prompt sets.
+✨ Design Philosophy
 
-**3. Batch Image Generation**
-- ComfyUI handles the render pipeline in local high-res.
+MLT Stock Idea Assistant was built to empower non-coders and solo creatives with a one-click solution to streamline everything from visual ideation to stock-ready image automation — without needing to touch command line, understand Python scripts, or juggle metadata formats.
 
-**4. Metadata Magic**
-- Embed title, keywords, and descriptions auto-generated for stock sites.
+We believe that the most powerful AI tools shouldn't be limited to engineers or developers. Tools like local LLMs (via Ollama) and image generators (like ComfyUI) are incredibly capable — but their complexity can alienate the very users who need them most: designers, marketers, and content creators.
 
-**5. Export & Upload**
-- Final assets ready for use or submission.
+That’s where this app steps in.
 
-**6. 🆓 FREE Operation**
-- Everything run on local computer, no subscription fee
+🔓 We designed this assistant to:
+
+🧠 Feel like a creative co-pilot, not a control panel
+
+🛠️ Automate the heavy lifting — from prompt generation to image creation to metadata tagging and uploads
+
+🗾 Simplify complex pipelines into clean, click-to-go steps
+
+📅 Work locally and offline — no cloud lock-in, full privacy and control
+
+✨ Bridge the gap between imagination and execution, with zero need for terminal commands or coding knowledge
+
+🎯 What We Value
+
+Simplicity without sacrificing power
+
+Offline-first privacy and independence
+
+Freedom to experiment and iterate fast
+
+Speed for rapid ideation and consistent output
+
+Whether you’re crafting stock visuals, building a theme pack, or just experimenting — MLT Stock Idea Assistant removes the friction and sparks momentum.
+
+Built by creators, for creators.
+
+---
 
 # Features / Free vs Pro
 ***Important:*** This is a bridge. You will still need to **install Ollama & ComfyUI** installed on your Machine (SDXL ideally need 12GB VRAM)
@@ -76,12 +95,6 @@ Modern creators juggle speed, quality, and originality. We built this app to **a
 | CFG Scale                   | ✅                | ✅              |
 | Flexible Folder Mapping     | ✅                | ✅              |
 
-
-## Dependency Checker & Installation Guide: Provided in App
-![Screenshot 2025-04-21 100314](https://github.com/user-attachments/assets/c74dfaf8-1fca-44cb-acef-bee0e45411ea)
-
-## Flexible Folder Mapping
-![Screenshot 2025-04-21 100818](https://github.com/user-attachments/assets/d7c74574-67f0-41ea-994a-9fdc7e710c51)
 
 
 ## Requirements:
