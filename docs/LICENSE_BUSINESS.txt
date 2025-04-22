@@ -1,0 +1,29 @@
+MLT Stock Idea Assistant – Business License
+
+Copyright © 2025 Matthew Choo
+
+This license allows a business or professional to use MLT Stock Idea Assistant in commercial workflows and projects.
+
+MLT Stock Idea Assistant is a workflow automation tool designed to generate prompts and streamline creative production using external services. It does not create content itself and does not impose licensing on the outputs from tools like ComfyUI or Ollama.
+
+By using this software, you agree to the following:
+
+1. You may:
+   - Use the app on up to 3 devices within your business or organization
+   - Use generated outputs (ideas, prompts, metadata) commercially, including for stock image sales, marketing materials, and paid services
+   - Include outputs in deliverables for clients or digital product listings
+
+2. You may NOT:
+   - Resell, sublicense, or bundle this app with other tools
+   - Share the software outside your licensed organization
+   - Reverse-engineer or modify the software
+
+3. Proof of License:
+   - A valid commercial purchase receipt (e.g., Gumroad Business license)
+   - May be requested for compliance or upgrade
+
+You are responsible for the legal use and licensing of content generated via connected tools. This software is provided "as-is" without warranties.
+
+For site licenses or extended use, contact: mattckw@gmail.com
+
+Note: This license only covers use of MLT Stock Idea Assistant. It does not grant rights to use, resell, or distribute any external AI model (e.g., SDXL, Ollama, Mistral). You are responsible for complying with those tools' respective licenses.
