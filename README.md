@@ -115,10 +115,18 @@ A: SDXL via ComfyUI + optional Ollama LLM locally + WAS nodes
 ## ☕ Buy Me a Coffee
 [PayPal Coffee Support Link](https://www.buymeacoffee.com/mattchoo2)
 
-## 🚀 Upgrade to PRO
+## 🚀 Upgrade to PRO (Personal)
 [Gumroad Link to Purchase](https://matthewcraft7.gumroad.com/l/qwwvb)
+- Includes  no prompt limit.
+- Self-use.
+- Up to 2 devices.
 
-Includes  no prompt limit.
+
+## 🚀 Upgrade to PRO (Business)
+[Gumroad Link to Purchase](https://matthewcraft7.gumroad.com/l/itiph)
+- Includes  no prompt limit.
+- For clients & business use.
+- Up to 3 devices  
   
 ### 🛡 Disclaimer:
 > *MLT Stock Image Assistant is an independent tool that assists with AI-based image generation automation. This software does not include or distribute any AI model weights (e.g., Mistral, SDXL), and it assumes the user has properly licensed or downloaded those models independently from their official sources. This tool is not affiliated with Ollama, StabilityAI, Adobe or Dreamstime.*
