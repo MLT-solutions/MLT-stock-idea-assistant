@@ -128,6 +128,14 @@ A: SDXL via ComfyUI + optional Ollama LLM locally + WAS nodes
 - Includes  no prompt limit.
 - For clients & business use.
 - Up to 3 devices  
+
+## License
+
+This free version is licensed for **personal, non-commercial use** only.  
+Commercial use requires a [Business License](docs/LICENSE_BUSINESS.txt).
+
+🔒 See [LICENSE_PERSONAL.txt](docs/LICENSE_PERSONAL.txt) for full terms.
+
   
 ### 🛡 Disclaimer:
 > *MLT Stock Image Assistant is an independent tool that assists with AI-based image generation automation. This software does not include or distribute any AI model weights (e.g., Mistral, SDXL), and it assumes the user has properly licensed or downloaded those models independently from their official sources. This tool is not affiliated with Ollama, StabilityAI, Adobe or Dreamstime.*
