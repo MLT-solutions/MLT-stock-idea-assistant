@@ -116,14 +116,14 @@ A: SDXL via ComfyUI + optional Ollama LLM locally + WAS nodes
 [PayPal Coffee Support Link](https://www.buymeacoffee.com/mattchoo2)
 
 ## 🚀 Upgrade to PRO (Personal)
-[Gumroad Link to Purchase](https://matthewcraft7.gumroad.com/l/qwwvb)
+[🛒 Gumroad Link to Purchase](https://matthewcraft7.gumroad.com/l/qwwvb)
 - Includes  no prompt limit.
 - Self-use.
 - Up to 2 devices.
 
 
 ## 🚀 Upgrade to PRO (Business)
-[Gumroad Link to Purchase](https://matthewcraft7.gumroad.com/l/itiph)
+[🛒 Gumroad Link to Purchase](https://matthewcraft7.gumroad.com/l/itiph)
 - Includes  no prompt limit.
 - For clients & business use.
 - Up to 3 devices  
