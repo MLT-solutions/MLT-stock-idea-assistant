@@ -11,7 +11,7 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
 - [🏠 Home](../README.md)
 - [🎯 Use Cases](case.md)
 - [👀 Sample Outcome](../sample/sample.md)
-- [📚 Documentation](Documentation.md)
+- [📚 Documentation & Usage Guide](Documentation.md)
 - [🛠 Installation Guide](INSTALLATION_GUIDE.md)
 
 
