@@ -35,6 +35,7 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
   - Title:
   - Description:
   - Keywords:
+  - ONE empty line
 - Paste the prompt twice (PRO) for more image variety
 - This is the source for embedding metadata into JPGs
 
