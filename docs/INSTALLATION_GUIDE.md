@@ -168,8 +168,10 @@ Instead of manually downloading from HuggingFace:
 
 - [x] Ollama installed and `mistral` model downloaded
 - [x] ComfyUI cloned to `Documents`
-- [x] WAS nodes and optional KSampler installed
-- [x] SDXL models downloaded via ComfyUI template
+- [x] ComfyUI Manager installed
+- [x] WAS nodes installed
 - [x] Real-ESRGAN model placed in correct folder
+- [x] Extended Save Image for ComfyUI
+- [x] SDXL base & refiner models downloaded via ComfyUI template
 - [x] Folder mapping configured in the GUI settings
 
