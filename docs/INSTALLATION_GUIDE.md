@@ -43,6 +43,15 @@ This guide helps you install **Ollama**, **ComfyUI**, required **custom nodes**,
 
 [**Windows PowerShell** is used for all the command code installation]
 
+```
+When ever you see instruction to go into a folder, e.g.:
+C:\Users\xxx\Documents\ComfyUI\
+
+You can use Window Explorer to go to that folder, then Right-Click --> Open Terminal
+Paste the "CODE" and Press ENTER.
+
+```
+
 ---
 
 ## 1. ✅ Ollama Installation
