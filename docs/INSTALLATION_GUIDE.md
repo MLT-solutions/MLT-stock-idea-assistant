@@ -104,7 +104,7 @@ Use ComfyUI Manager to install and manage custom nodes without manual Git operat
    
    ```
 
-2. Restart ComfyUI.
+2. Close the PowerShell Window & Restart ComfyUI.
    ```bash
    cd C:\Users\xxx\Documents\ComfyUI\
    python main.py
@@ -133,7 +133,7 @@ After installing the Manager, do the following inside ComfyUI:
 
 > The node "Upscale by Model" will appear under your image processing node list after installation.
 
-### Extended Save Image for ComfyUI
+### 💾 Extended Save Image for ComfyUI
 ```
  cd C:\Users\xxx\Documents\ComfyUI\custom_nodes
 git clone https://github.com/palant/extended-saveimage-comfyui
