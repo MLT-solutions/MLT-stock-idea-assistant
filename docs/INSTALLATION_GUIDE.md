@@ -49,7 +49,6 @@ C:\Users\xxx\Documents\ComfyUI\
 
 You can use Window Explorer to go to that folder, then Right-Click --> Open Terminal
 Paste the "CODE" and Press ENTER.
-
 ```
 
 ---
