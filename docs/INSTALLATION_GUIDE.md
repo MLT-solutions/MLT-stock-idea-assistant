@@ -47,11 +47,6 @@ This guide helps you install **Ollama**, **ComfyUI**, required **custom nodes**,
 
 ## 1. ✅ Ollama Installation
 
-If never install Git before, Download Git
-Go to the official Git website:
-https://git-scm.com/downloads
-Run the Installer
-
 Install Ollama from the official website:
 
 👉 [Download Ollama](https://ollama.com/download)
@@ -67,6 +62,13 @@ ollama run mistral
 This pulls and prepares the Mistral model used for prompt generation.
 
 ---
+
+## 1B. Git Bash
+If never install Git before, Download Git
+Go to the official Git website:
+👉 [Download Git](https://git-scm.com/downloads)
+
+Run the Installer
 
 ## 2. 🧰 ComfyUI Installation
 
