@@ -80,7 +80,7 @@ Go to the official Python website:
 
 Steps:
 1. Download (Stable Release + 64-bit, do google how to check if not sure)
-2. Install.
+2. Install and Restart PC.
 
 ---
 
