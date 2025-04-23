@@ -64,7 +64,7 @@ This pulls and prepares the Mistral model used for prompt generation.
 ---
 
 ## 2A. 🧰 Git Bash
-If never install Git before, Download Git
+If never install Git before
 Go to the official Git website:
 - 👉 [Download Git](https://git-scm.com/downloads)
 
@@ -73,7 +73,18 @@ Steps:
 
 ---
 
-## 2B. 🧰 ComfyUI Installation
+## 2B. 🧰 Python
+If never install Python before
+Go to the official Python website:
+- 👉 [Download Python](https://www.python.org/downloads/windows/)
+
+Steps:
+1. Download (Stable Release + 64-bit, do google how to check if not sure)
+2. Install.
+
+---
+
+## 2C. 🧰 ComfyUI Installation
 
 You can install ComfyUI anywhere. Here we use your `Documents` folder.
 
