@@ -49,7 +49,7 @@ This guide helps you install **Ollama**, **ComfyUI**, required **custom nodes**,
 
 Install Ollama from the official website:
 
-👉 [Download Ollama](https://ollama.com/download)
+- 👉 [Download Ollama](https://ollama.com/download)
 
 Steps:
 1. Download and install.
@@ -100,6 +100,7 @@ Use ComfyUI Manager to install and manage custom nodes without manual Git operat
    ```bash
    cd C:\Users\xxx\Documents\ComfyUI\custom_nodes
    git clone https://github.com/ltdrdata/ComfyUI-Manager.git
+   
    ```
 
 2. Restart ComfyUI.
@@ -131,6 +132,11 @@ After installing the Manager, do the following inside ComfyUI:
 
 > The node "Upscale by Model" will appear under your image processing node list after installation.
 
+### Extended Save Image for ComfyUI
+```
+ cd C:\Users\xxx\Documents\ComfyUI\custom_nodes
+git clone https://github.com/palant/extended-saveimage-comfyui
+```
 ---
 
 ### C. SDXL Base & Refiner (EASIEST METHOD ✅)
