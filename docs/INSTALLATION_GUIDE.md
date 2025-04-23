@@ -63,12 +63,14 @@ This pulls and prepares the Mistral model used for prompt generation.
 
 ---
 
-## 1B. Git Bash
+## 1B. 🧰 Git Bash
 If never install Git before, Download Git
 Go to the official Git website:
 👉 [Download Git](https://git-scm.com/downloads)
 
 Run the Installer
+
+---
 
 ## 2. 🧰 ComfyUI Installation
 
