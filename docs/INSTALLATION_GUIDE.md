@@ -75,12 +75,11 @@ Steps:
 
 ## 2B. 🧰 Python
 If never install Python before
-Go to the official Python website:
-- 👉 [Download Python](https://www.python.org/downloads/windows/)
+Go to the Microsoft Store and install Python 3.12
+- 👉 [Download Python 3.12](https://apps.microsoft.com/detail/9ncvdn91xzqp?hl=en-US&gl=US)
 
 Steps:
-1. Download (Stable Release + 64-bit, do google how to check if not sure)
-2. Install and Restart PC.
+1. Download & install.
 
 ---
 
@@ -99,6 +98,17 @@ Resulting folder structure:
 ```
 C:\Users\xxx\Documents\ComfyUI\
 ```
+
+---
+
+## 2D. 🧰 ComfyUI Requirement Installation
+
+```bash
+cd C:\Users\xxx\Documents\ComfyUI\
+pip install -r requirements.txt
+```
+
+
 
 ---
 
