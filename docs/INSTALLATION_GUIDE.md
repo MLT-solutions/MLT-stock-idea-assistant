@@ -47,6 +47,11 @@ This guide helps you install **Ollama**, **ComfyUI**, required **custom nodes**,
 
 ## 1. ✅ Ollama Installation
 
+If never install Git before, Download Git
+Go to the official Git website:
+https://git-scm.com/downloads
+Run the Installer
+
 Install Ollama from the official website:
 
 👉 [Download Ollama](https://ollama.com/download)
