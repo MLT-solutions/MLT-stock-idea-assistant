@@ -66,9 +66,10 @@ This pulls and prepares the Mistral model used for prompt generation.
 ## 2A. 🧰 Git Bash
 If never install Git before, Download Git
 Go to the official Git website:
-👉 [Download Git](https://git-scm.com/downloads)
+- 👉 [Download Git](https://git-scm.com/downloads)
 
-Run the Installer
+Steps:
+1. Download and install.
 
 ---
 
