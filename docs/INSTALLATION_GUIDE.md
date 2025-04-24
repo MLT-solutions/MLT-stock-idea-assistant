@@ -210,7 +210,7 @@ After installing the Manager, do the following inside ComfyUI:
     ```
 ---
 
-### C. SDXL Base & Refiner (EASIEST METHOD ✅)
+### C. SDXL Base & Refiner 
 
 Instead of manually downloading from HuggingFace:
 
