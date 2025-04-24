@@ -26,6 +26,7 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
 ![Image 9](Set1/mjpg_00009_.jpg)
 ![Image 10](Set1/mjpg_00010_.jpg)
 
+---
 
 ## Set 2 - Sample Images from Ideation Use Cases
 ![Image 12](Set2/mjpg_00001_.jpg)
