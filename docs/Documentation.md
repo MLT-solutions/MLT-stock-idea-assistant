@@ -76,7 +76,7 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
 
 ### 8. Known Issues (Rare)
 - Even though negative prompts build-in in App, you may still still malform hands
-- When you generate prompts, you may see **prompt exceed 77 token**.
+- When you generate prompts, you may see **prompt exceed 77 token** error in log window.
   - This is normal and not a issue.
   - As we want to bundle in metadata to images, the prompt is a combine of title, description and keywords.
   - It is not an issue 77 tokens ≈ 300–350 characters of the starting string (positive prompt only). Thus, not affecting output quality.
