@@ -188,27 +188,27 @@ After installing the Manager, do the following inside ComfyUI:
 1. Go to: **Manager → Custom Nodes**
 2. Search: `was-node`
 3. Click **Install** next to `WAS Node Suite`
+4. Restart Required to see is go live
 
 #### 🔼 Real-ESRGAN Upscaler Support
 
-1. Go to: **Manager → Custom Nodes**
-2. Search: `RealESRGAN`
-3. Click **Install** (you may be prompted to download model weights)
-
-> The node "Upscale by Model" will appear under your image processing node list after installation.
+1. Go to: [RealESRGAN_x4plus.pth Website](https://huggingface.co/lllyasviel/Annotators/blob/main/RealESRGAN_x4plus.pth)
+2. Click **Download** 
+3. Move the Downloaded file from **Download Folder** to C:\Users\xxx\Documents\ComfyUI\models\upscale_models
 
 ### 💾 Extended Save Image for ComfyUI
-```
- cd C:\Users\xxx\Documents\ComfyUI\custom_nodes
-git clone https://github.com/palant/extended-saveimage-comfyui
-```
+1. Open PowerShell anywhere (or right click in custom_nodes)
+    ```
+     cd C:\Users\xxx\Documents\ComfyUI\custom_nodes
+    git clone https://github.com/palant/extended-saveimage-comfyui
+    ```
 ---
 
 ### C. SDXL Base & Refiner (EASIEST METHOD ✅)
 
 Instead of manually downloading from HuggingFace:
 
-1. Run ComfyUI:
+1. Open PowerShell anywhere, use code below to run ComfyUI:
    ```bash
    cd C:\Users\xxx\Documents\ComfyUI\
    python main.py
@@ -216,6 +216,8 @@ Instead of manually downloading from HuggingFace:
 
 2. In the ComfyUI UI:
    - Top left menu → **Workflow** → **Browse templates** → **SDXL → SDXL Simple**
+   - Another path may be:
+     - Top left menu → **Workflow** → **Browse templates** → **Image → SDXL Simple**
 
 3. A popup will appear to **auto-download** the required base + refiner models.
    - You may be prompted to visit HuggingFace to agree to terms.
