@@ -91,11 +91,11 @@ Whether you’re crafting stock visuals, building a theme pack, or just experime
 
 
 ## Requirements:
+- Ollama
+- ComfyUI installed via CLI
 - Windows 11 with GPU (Ideally 8GB VRAM and above)
   - Tested on both RTX 4060 8GB & RTX 2080TI 12GB
   - Image generation speed similar per image (RTX 4060 take a bit longer for comfyUI launch)
-- Ollama
-- ComfyUI installed via CLI
 - Storage usage:
 
 | **Setup Type**              | **Estimate (Min–Max)** |
