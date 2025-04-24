@@ -97,6 +97,7 @@ Whether you’re crafting stock visuals, building a theme pack, or just experime
 - Ollama
 - ComfyUI installed via CLI
 - Storage usage:
+
 | **Setup Type**              | **Estimate (Min–Max)** |
 |-----------------------------|-------------------------|
 | Base + SDXL + Upscale       | 13.5 – 14.5 GB          |
