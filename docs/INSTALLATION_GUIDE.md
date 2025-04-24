@@ -39,7 +39,7 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
 
 # 🛠 Dependencies Installation Guide
 
-This guide helps you install **Ollama**, **ComfyUI**, required **custom nodes**, and set up your **folder structure** for the MLT Stock Image Automation Tool. 
+This guide helps you install **Ollama**, **ComfyUI**, required **custom nodes**, and set up your **folder structure** for the MLT Stock Idea Assistant. 
 
 [**Windows PowerShell** is used for all the command code installation]
 
