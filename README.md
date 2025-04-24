@@ -100,7 +100,7 @@ Whether you’re crafting stock visuals, building a theme pack, or just experime
 
 | **Setup Type**              | **Estimate (Min–Max)** |
 |-----------------------------|-------------------------|
-| Base + SDXL + Upscale       | 13.5 – 14.5 GB          |
+| ComfyUI + SDXL + Upscale    | 13.5 – 14.5 GB          |
 | + With Ollama (Mistral)     | 17 – 20+ GB             |
 | + With Large Ollama models  | 22 – 30+ GB             |
 
