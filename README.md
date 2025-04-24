@@ -92,8 +92,17 @@ Whether you’re crafting stock visuals, building a theme pack, or just experime
 
 ## Requirements:
 - Windows 11 with GPU (Ideally 8GB VRAM and above)
+  - Tested on both RTX 4060 8GB & RTX 2080TI 12GB
+  - Image generation speed similar per image (RTX 4060 take a bit longer for comfyUI launch)
 - Ollama
 - ComfyUI installed via CLI
+- Storage usage:
+| **Setup Type**              | **Estimate (Min–Max)** |
+|-----------------------------|-------------------------|
+| Base + SDXL + Upscale       | 13.5 – 14.5 GB          |
+| + With Ollama (Mistral)     | 17 – 20+ GB             |
+| + With Large Ollama models  | 22 – 30+ GB             |
+
 
 
 ### ✅ What am I Providing
