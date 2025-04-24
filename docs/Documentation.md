@@ -75,6 +75,11 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
 - If restarting midway, **exit and relaunch the app** to reset queue tracking
 
 ### 8. Known Issues (Rare)
+- Even though negative prompts build-in in App, you may still still malform hands
+- When you generate prompts, you may see **prompt exceed 77 token**.
+  - This is normal and not a issue.
+  - As we want to bundle in metadata to images, the prompt is a combine of title, description and keywords.
+  - It is not an issue 77 tokens ≈ 300–350 characters of the starting string (positive prompt only). Thus, not affecting output quality.
 - If the **last image (e.g., #100)** has broken metadata, it might’ve skipped a line
 - **Solutions:**
 - 🛠 **Manual:** Use an EXIF viewer (e.g., **XnView MP**) to check for the skipped image
