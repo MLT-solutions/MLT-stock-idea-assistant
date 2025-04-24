@@ -155,7 +155,7 @@ This MUST be AFTER PyTorch Installation
 
 ---
 
-## 3. 🔌 Install Custom Nodes & Models
+## 8. 🔌 Install Custom Nodes & Models
 
 ### A. 📦 Install ComfyUI Manager (Recommended for Managing Nodes Easily)
 
@@ -216,7 +216,7 @@ Instead of manually downloading from HuggingFace:
 
 2. In the ComfyUI UI:
    - Top left menu → **Workflow** → **Browse templates** → **SDXL → SDXL Simple**
-   - Another path may be:
+   - Another alternative path may be:
      - Top left menu → **Workflow** → **Browse templates** → **Image → SDXL Simple**
 
 3. A popup will appear to **auto-download** the required base + refiner models.
@@ -224,9 +224,7 @@ Instead of manually downloading from HuggingFace:
    - Once you do that, ComfyUI will download:
      - `sd_xl_base_1.0.safetensors`
      - `sd_xl_refiner_1.0.safetensors`
-   - These are automatically placed in `models/checkpoints/`
-
-✅ **Recommended for beginners.**
+   - If these are NOT automatically placed in `models/checkpoints/`, copy them from Download Folder and moved to `models/checkpoints/`
 
 
 
