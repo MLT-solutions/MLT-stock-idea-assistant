@@ -82,8 +82,8 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
   - This does **not affect image quality** or generation.
 - If the **last image (e.g., #100)** has broken metadata, it might’ve skipped a line
 - **Solutions:**
-- 🛠 **Manual:** Use an EXIF viewer (e.g., **XnView MP**) to check for the skipped image
-- ⚠️ **Avoid:** Generate smaller batches (e.g., 50 instead of 100)
+  - 🛠 **Manual:** Use an EXIF viewer (e.g., **XnView MP**) to check for the skipped image
+  - ⚠️ **Avoid:** Generate smaller batches (e.g., 50 instead of 100)
 
 
 
