@@ -25,6 +25,7 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
 ---
 ![Screenshot 2025-04-24 212452](https://github.com/user-attachments/assets/3055259f-89a4-44af-9d4d-6acbce9475ea)
 ---
-![Uploading Screenshot 2025-04-24 212511.png…]()
+![Screenshot 2025-04-24 212511](https://github.com/user-attachments/assets/3ce73e42-ef4c-4529-973a-69486c568c44)
+
 
 
