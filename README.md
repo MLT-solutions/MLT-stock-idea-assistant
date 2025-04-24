@@ -124,6 +124,8 @@ A: SDXL via ComfyUI + optional Ollama LLM locally + WAS nodes
 - Not optimized for mobile workflows (desktop only)
 - Even though negative prompts build-in in App, you may still still malform hands
 
+---
+
 ## ☕ Buy Me a Coffee
 [PayPal Coffee Support Link](https://www.buymeacoffee.com/mattchoo2)
 
