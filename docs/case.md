@@ -13,7 +13,8 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
 - [📚 Documentation & Usage Guide](Documentation.md)
 - [🛠 Installation](INSTALLATION_GUIDE.md)
 
-
+---
+![ChatGPT Image Apr 24, 2025, 09_10_16 PM](https://github.com/user-attachments/assets/bd03c92f-4b96-47e0-989f-933e5dfea4a2)
 ---
 ![Screenshot 2025-04-24 212421](https://github.com/user-attachments/assets/e168aa5d-9337-496f-ab15-3981561b7522)
 ---
