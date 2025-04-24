@@ -36,6 +36,7 @@ Modern creators juggle speed, quality, and originality. We built this app to **a
 
 ---
 
+![Screenshot 2025-04-24 213614](https://github.com/user-attachments/assets/ac3f04aa-12af-4ea7-885f-407739184dfc)
 # ✨ Design Philosophy
 
 **MLT Stock Idea Assistant was built to empower non-coders and solo creatives** with **a one-click solution** to streamline everything from visual ideation to stock-ready image automation — without needing to touch command line, understand Python scripts, or juggle metadata formats.
