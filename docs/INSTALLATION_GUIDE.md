@@ -202,7 +202,7 @@ After installing the Manager, do the following inside ComfyUI:
      cd C:\Users\xxx\Documents\ComfyUI\custom_nodes
     git clone https://github.com/palant/extended-saveimage-comfyui
     ```
-2. If you have conflict of **SaveImageExtended**, look for this folder ComfyUI\custom_nodes\save-image-extended-comfyui and delete it.
+2. If you have conflict of **SaveImageExtended**, look for this folder ComfyUI\custom_nodes\save-image-extended-comfyui and **delete it**.
 3. If you want to use both versions someday:
    - Edit save-image-extended-comfyui  script and change** class SaveImageExtended ➝ SaveImageExtendedV2**
     ```
