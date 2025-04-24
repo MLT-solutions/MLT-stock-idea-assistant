@@ -7,7 +7,7 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
 # Quick links:
 - [🏠 Home](../README.md)
 - [🎯 Use Cases](../docs/case.md)
-- [👀 Sample Outcome](sample.md)
+- [✨ Real Results](sample.md)
 - [📚 Documentation & Usage Guide](../docs/Documentation.md)
 - [🛠 Installation](../docs/INSTALLATION_GUIDE.md)
 
