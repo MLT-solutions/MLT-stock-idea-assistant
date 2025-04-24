@@ -81,9 +81,9 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
   - The 77-token limit (~300–350 characters) account only to the **start of the positive prompt**.
   - This does **not affect image quality** or generation.
 - If the **last image (e.g., #100)** has broken metadata, it might’ve skipped a line
-- **Solutions:**
-  - 🛠 **Manual:** Use an EXIF viewer (e.g., **XnView MP**) to check for the skipped image
-  - ⚠️ **Avoid:** Generate smaller batches (e.g., 50 instead of 100)
+  - **Solutions:**
+    - 🛠 **Manual:** Use an EXIF viewer (e.g., **XnView MP**) to check for the skipped image
+    - ⚠️ **Avoid:** Generate smaller batches (e.g., 50 instead of 100)
 
 
 
