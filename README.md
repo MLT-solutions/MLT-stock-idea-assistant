@@ -15,8 +15,7 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
 
 
 ---
-![Screenshot 2025-04-22 131934](https://github.com/user-attachments/assets/d0c23c38-2eae-404a-8003-fd67044eb1df)
-![Screenshot 2025-04-22 132058](https://github.com/user-attachments/assets/e0e08828-b49c-4e76-b2c6-141423e59679)
+![Screenshot 2025-04-24 213614](https://github.com/user-attachments/assets/ac3f04aa-12af-4ea7-885f-407739184dfc)
 
 ## Why This Tool Was Built
 Modern creators juggle speed, quality, and originality. We built this app to **automate the repetitive, spark fresh ideas, and generate consistent visual assets** using the latest in AI.
@@ -35,8 +34,9 @@ Modern creators juggle speed, quality, and originality. We built this app to **a
 - Visual Storytellers
 
 ---
+![Screenshot 2025-04-22 131934](https://github.com/user-attachments/assets/d0c23c38-2eae-404a-8003-fd67044eb1df)
+![Screenshot 2025-04-22 132058](https://github.com/user-attachments/assets/e0e08828-b49c-4e76-b2c6-141423e59679)
 
-![Screenshot 2025-04-24 213614](https://github.com/user-attachments/assets/ac3f04aa-12af-4ea7-885f-407739184dfc)
 # ✨ Design Philosophy
 
 **MLT Stock Idea Assistant was built to empower non-coders and solo creatives** with **a one-click solution** to streamline everything from visual ideation to stock-ready image automation — without needing to touch command line, understand Python scripts, or juggle metadata formats.
