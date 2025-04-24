@@ -32,8 +32,8 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
 
 ---
 
-# Dependency Checker [Click the second button on the left]
-![Screenshot 2025-04-21 100314](https://github.com/user-attachments/assets/c74dfaf8-1fca-44cb-acef-bee0e45411ea)
+# Dependency Checker [Main GUI - Click the second button on the left]
+![Screenshot 2025-04-24 214439](https://github.com/user-attachments/assets/22f0beaa-6212-485d-9cb9-20b5b2dbd2e3)
 
 ---
 
