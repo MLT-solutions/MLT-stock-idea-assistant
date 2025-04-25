@@ -34,7 +34,8 @@ Modern creators juggle speed, quality, and originality. We built this app to **a
 - Visual Storytellers
 
 ---
-![Screenshot 2025-04-22 131934](https://github.com/user-attachments/assets/d0c23c38-2eae-404a-8003-fd67044eb1df)
+![ChatGPT Image Apr 25, 2025, 10_12_21 PM](https://github.com/user-attachments/assets/ac563a47-31fb-41bb-85c8-f7815bc40a99)
+
 ![Screenshot 2025-04-22 132058](https://github.com/user-attachments/assets/e0e08828-b49c-4e76-b2c6-141423e59679)
 
 # ✨ Design Philosophy
