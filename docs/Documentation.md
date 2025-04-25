@@ -18,7 +18,7 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
 ---
 
 ## 🚀 Usage Sequence & Button Guide
-
+![Screenshot 2025-04-22 131934](https://github.com/user-attachments/assets/d0c23c38-2eae-404a-8003-fd67044eb1df)
 ![App Screenshot](https://github.com/user-attachments/assets/d4e3e899-8e4c-452b-8500-ac7715d274be)
 ## 🚨 If you wish to rerun same script, just click "3-Generate" again
 ---
