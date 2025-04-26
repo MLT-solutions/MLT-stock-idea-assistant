@@ -85,12 +85,17 @@ Steps:
 ---
 
 ## 3. 🐍 Python
-If never install Python before
-Go to the Microsoft Store and install Python 3.12
-- 👉 [Download Python 3.12](https://apps.microsoft.com/detail/9ncvdn91xzqp?hl=en-US&gl=US)
+Only here open Command Prompt (CMD) and type
+```
+where python
+```
+1. If never install Python before (0 LINE return), go to the Microsoft Store and install Python 3.12
+   - 👉 [Download Python 3.12](https://apps.microsoft.com/detail/9ncvdn91xzqp?hl=en-US&gl=US)
+   - Download & install.
 
-Steps:
-1. Download & install.
+2. If you see 1 line or more lines of phyton.exe path, that means you have more than 1 phyton in your system.
+   - If you had Microsoft Store Python before, it will stay as LINE 1 even you have uninstalled it
+   - For all the following installation, MUST install via the FIRST python environment to prevent issue (e.g. CMD Window Phython vs (base) PowerShell aka Miniconda Python)
 
 ---
 
