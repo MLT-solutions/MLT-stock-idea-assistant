@@ -105,7 +105,7 @@ You can install ComfyUI anywhere. Here we use your `Documents` folder.
 
 Replace `xxx` with your PC username:
 
-    ```bash
+    ```
     cd C:\Users\xxx\Documents\
     git clone https://github.com/comfyanonymous/ComfyUI.git
     ```
