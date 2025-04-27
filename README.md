@@ -97,7 +97,7 @@ Whether you’re crafting stock visuals, building a theme pack, or just experime
 | Resolution Selection                     | ✅                | ✅                  | ✅                     |
 | CFG Scale                                | ✅                | ✅                  | ✅                     |
 | Flexible Folder Mapping                  | ✅                | ✅                  | ✅                     |
-| **Purchase**                 |  🆓            |    [🛒 Purchase](https://matthewcraft7.gumroad.com/l/qwwvb)              |    [🛒 Purchase](https://matthewcraft7.gumroad.com/l/itiph)                  |
+| **Purchase**                 |  🆓            |    [🛒 Purchase](https://mltsolutions.gumroad.com/l/qwwvb)              |    [🛒 Purchase](https://mltsolutions.gumroad.com/l/itiph)                  |
 
 ## Requirements:
 - Ollama
