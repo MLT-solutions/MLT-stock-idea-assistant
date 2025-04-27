@@ -1,9 +1,19 @@
-# ![MLT Logo](https://github.com/user-attachments/assets/f322d9cc-1adf-45d4-a38d-4764f62cf7bd) MLT Stock Idea Assistant
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/de79370d-078c-4448-a996-9624d107cd3b" alt="My Image" width="150"/>
+</p>
 
-# Documentation & Usage Guide
 
-## “Your private AI-powered visual assistant that goes from spark to stock-ready.”
+
+
+# SIA - Stock Idea Assistant
+### Powered by Modern Logic Tech (MLT™)
+
+
+
+***“Your private AI-powered visual assistant that goes from spark to stock-ready.”***
+
 Designers, marketers, and solopreneurs — this is your fast lane from idea to income.
+
 
 --- 
 
@@ -18,7 +28,8 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
 ---
 
 ## 🚀 Usage Sequence & Button Guide
-![Screenshot 2025-04-22 131934](https://github.com/user-attachments/assets/d0c23c38-2eae-404a-8003-fd67044eb1df)
+![Screenshot 2025-04-27 132843](https://github.com/user-attachments/assets/58551013-dda4-43d9-a09a-6c5239ef7d20)
+
 ![App Screenshot](https://github.com/user-attachments/assets/d4e3e899-8e4c-452b-8500-ac7715d274be)
 ## 🚨 If you wish to rerun same script, just click "3-Generate" again
 ---
