@@ -1,9 +1,13 @@
-# ![Screenshot 2025-04-21 102643](https://github.com/user-attachments/assets/f322d9cc-1adf-45d4-a38d-4764f62cf7bd) MLT Stock Idea Assistant
-# Use Cases
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/de79370d-078c-4448-a996-9624d107cd3b" alt="My Image" width="150"/>
+</p>
 
-![Screenshot 2025-04-21 222430](https://github.com/user-attachments/assets/28f6c8d8-3c5b-4cf8-96ff-ab57d851bc57)
 
-## “Your private AI-powered visual assistant that goes from spark to stock-ready.”
+# SIA - Stock Idea Assistant
+### Powered by Modern Logic Tech (MLT™)
+
+***“Your private AI-powered visual assistant that goes from spark to stock-ready.”***
+
 Designers, marketers, and solopreneurs — this is your fast lane from idea to income.
 
 ## Quick links:
@@ -12,7 +16,8 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
 - [✨ Real Results](../sample/sample.md)
 - [📚 Documentation & Usage Guide](Documentation.md)
 - [🛠 Installation](INSTALLATION_GUIDE.md)
-
+---
+# Use Cases
 ---
 ![ChatGPT Image Apr 24, 2025, 09_10_16 PM](https://github.com/user-attachments/assets/bd03c92f-4b96-47e0-989f-933e5dfea4a2)
 ---
