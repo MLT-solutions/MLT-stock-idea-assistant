@@ -5,11 +5,15 @@
 
 
 
-# ![Screenshot 2025-04-21 102643](https://github.com/user-attachments/assets/f322d9cc-1adf-45d4-a38d-4764f62cf7bd) MLT Stock Idea Assistant
-# Installation Documentation
+# SIA - Stock Idea Assistant
+### Powered by Modern Logic Tech (MLT™)
 
-## “Your private AI-powered visual assistant that goes from spark to stock-ready.”
+
+
+***“Your private AI-powered visual assistant that goes from spark to stock-ready.”***
+
 Designers, marketers, and solopreneurs — this is your fast lane from idea to income.
+
 
 ---
 
@@ -23,7 +27,8 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
   
 ---
 
-# MLT Stock Image Assistant Installation & 🗂 Folder Mapping
+# Installation Documentation  & 🗂 Folder Mapping
+
 1. Just double click to install the exe installer.
 2. Folder locations are flexible. You can set your own paths in the Settings panel.
 
