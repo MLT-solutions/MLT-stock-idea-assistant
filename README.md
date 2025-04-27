@@ -20,8 +20,8 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
 
 ---
 # Introduction
-![Screenshot 2025-04-22 074719](https://github.com/user-attachments/assets/1775b062-93e0-449d-ba37-293ae43e8c8f)
-![Screenshot 2025-04-21 222430](https://github.com/user-attachments/assets/9d89146e-ed67-4e25-8447-195ea31f2529)
+![Screenshot 2025-04-27 133931](https://github.com/user-attachments/assets/b9e4be48-2274-4f0c-b870-fba6c20d373a)
+
 
 ![Screenshot 2025-04-24 213614](https://github.com/user-attachments/assets/ac3f04aa-12af-4ea7-885f-407739184dfc)
 
