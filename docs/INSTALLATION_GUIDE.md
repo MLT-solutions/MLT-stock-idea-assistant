@@ -86,7 +86,8 @@ Steps:
 
 ## 3. 🐍 Python
 Open Command Prompt and follow command in image to do status check:
-![Screenshot 2025-04-27 130250](https://github.com/user-attachments/assets/5e386172-ce3f-460a-ba7a-d095f2fe6f88)
+![Screenshot 2025-04-27 131157](https://github.com/user-attachments/assets/1a09d86e-f2ec-4857-987a-448e520cd500)
+
 
 
 1. If never install Python before (0 LINE return), go to the Microsoft Store and install Python 3.12
