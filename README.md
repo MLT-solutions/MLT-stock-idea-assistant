@@ -1,10 +1,14 @@
-# ![ISA logo (75)](https://github.com/user-attachments/assets/06cea62d-59ad-466b-a733-d1334201bad4) MLT Stock Idea Assistant
-# Introduction
-![Screenshot 2025-04-22 074719](https://github.com/user-attachments/assets/1775b062-93e0-449d-ba37-293ae43e8c8f)
-![Screenshot 2025-04-21 222430](https://github.com/user-attachments/assets/9d89146e-ed67-4e25-8447-195ea31f2529)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/de79370d-078c-4448-a996-9624d107cd3b" alt="My Image" width="150"/>
+</p>
 
-## “Your private AI-powered visual assistant that goes from spark to stock-ready.”
+# SIA - Stock Idea Assistant
+### Powered by Modern Logic Tech (MLT™)
+
+***“Your private AI-powered visual assistant that goes from spark to stock-ready.”***
+
 Designers, marketers, and solopreneurs — this is your fast lane from idea to income.
+
 
 ## Quick links:
 - [🏠 Home](README.md)
@@ -15,6 +19,10 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
 
 
 ---
+# Introduction
+![Screenshot 2025-04-22 074719](https://github.com/user-attachments/assets/1775b062-93e0-449d-ba37-293ae43e8c8f)
+![Screenshot 2025-04-21 222430](https://github.com/user-attachments/assets/9d89146e-ed67-4e25-8447-195ea31f2529)
+
 ![Screenshot 2025-04-24 213614](https://github.com/user-attachments/assets/ac3f04aa-12af-4ea7-885f-407739184dfc)
 
 ## Why This Tool Was Built
