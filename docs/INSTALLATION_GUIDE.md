@@ -40,12 +40,14 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
 
 ### 📸 Example from Settings Panel
 
-![Screenshot 2025-04-21 100818](https://github.com/user-attachments/assets/d7c74574-67f0-41ea-994a-9fdc7e710c51)
+![Screenshot 2025-04-27 132828](https://github.com/user-attachments/assets/fba7f5cd-f592-4d80-b066-c09dfeb30907)
+
 
 ---
 
 # Dependency Checker [Main GUI - Click the second button on the left]
-![Screenshot 2025-04-24 214439](https://github.com/user-attachments/assets/22f0beaa-6212-485d-9cb9-20b5b2dbd2e3)
+![Screenshot 2025-04-27 132818](https://github.com/user-attachments/assets/b7004fa1-37e7-4499-9ea0-1f42b5b8491a)
+
 
 ---
 
