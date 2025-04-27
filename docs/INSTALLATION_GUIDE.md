@@ -85,17 +85,17 @@ Steps:
 ---
 
 ## 3. 🐍 Python
-Only here open Command Prompt (CMD) and type
-```
-where python
-```
+Open Command Prompt and follow command in image to do status check:
+![Screenshot 2025-04-27 130250](https://github.com/user-attachments/assets/5e386172-ce3f-460a-ba7a-d095f2fe6f88)
+
+
 1. If never install Python before (0 LINE return), go to the Microsoft Store and install Python 3.12
    - 👉 [Download Python 3.12](https://apps.microsoft.com/detail/9ncvdn91xzqp?hl=en-US&gl=US)
    - Download & install.
 
 2. If you see 1 line or more lines of phyton.exe path, that means you have more than 1 phyton in your system.
-   - If you had Microsoft Store Python before, it will stay as LINE 1 even you have uninstalled it
-   - For all the following installation, MUST install via the FIRST python environment to prevent issue (e.g. CMD Window Phython vs (base) PowerShell aka Miniconda Python)
+   - If you had Microsoft Store Python before, it will stay as LINE 1 even you have uninstalled it (suggest reinstall it)
+   - For all the following installation, use Command Prompt should warrant all installation go into default Python.
 
 ---
 
@@ -127,8 +127,8 @@ Resulting folder structure:
 4. My PC is CUDA 12.9 - Selecting Stable Window pip python cuda 12.6
      ```
      pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
-     ```
-5. After installation, Open PowerShell (anywhere) and enter
+     ```  
+6. After installation, Open PowerShell (anywhere) and enter
      ```
      import torch
      print(torch.cuda.is_available())  # Should print True if CUDA is available
