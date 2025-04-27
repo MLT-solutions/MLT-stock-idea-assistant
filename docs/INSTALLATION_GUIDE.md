@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f322d9cc-1adf-45d4-a38d-4764f62cf7bd" alt="My Image" width="400"/>
+</p>
+
+
+
 # ![Screenshot 2025-04-21 102643](https://github.com/user-attachments/assets/f322d9cc-1adf-45d4-a38d-4764f62cf7bd) MLT Stock Idea Assistant
 # Installation Documentation
 
