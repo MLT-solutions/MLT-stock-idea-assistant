@@ -15,8 +15,6 @@
 Designers, marketers, and solopreneurs — this is your fast lane from idea to income.
 
 
-## “Your private AI-powered visual assistant that goes from spark to stock-ready.”
-Designers, marketers, and solopreneurs — this is your fast lane from idea to income.
 
 # Quick links:
 - [🏠 Home](../README.md)
