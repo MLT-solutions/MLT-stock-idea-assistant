@@ -1,3 +1,32 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/de79370d-078c-4448-a996-9624d107cd3b" alt="My Image" width="150"/>
+</p>
+
+
+
+
+# SIA - Stock Idea Assistant
+### Powered by Modern Logic Tech (MLT™)
+
+
+
+***“Your private AI-powered visual assistant that goes from spark to stock-ready.”***
+
+Designers, marketers, and solopreneurs — this is your fast lane from idea to income.
+
+
+--- 
+
+## 🔗 Quick Links
+- [🏠 Home](../README.md)
+- [🎯 Use Cases](case.md)
+- [✨ Real Results](../sample/sample.md)
+- [📚 Documentation & Usage Guide](Documentation.md)
+- [🛠 Installation Guide](INSTALLATION_GUIDE.md)
+- [🛡️ Privacy Policy](PrivacyPolicy.md)
+
+---
+
 **Privacy Policy**
 
 Effective Date: May 1, 2025
