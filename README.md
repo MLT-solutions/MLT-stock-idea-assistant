@@ -15,8 +15,8 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
 - [🎯 Use Cases](docs/case.md)
 - [✨ Real Results](sample/sample.md)
 - [📚 Documentation & Usage Guide](docs/Documentation.md)
-- [🛠 Installation](docs/INSTALLATION_GUIDE.md)
-
+- [🛠 Installation](docs/INSTALLATION_GUIDE.md)PrivacyPolicy.md
+- [🛡️ Privacy Policy](docs/PrivacyPolicy.md)
 
 ---
 # Introduction
