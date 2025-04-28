@@ -22,6 +22,7 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
 - [✨ Real Results](sample.md)
 - [📚 Documentation & Usage Guide](../docs/Documentation.md)
 - [🛠 Installation](../docs/INSTALLATION_GUIDE.md)
+- [🛡️ Privacy Policy](../docs/PrivacyPolicy.md)
 
 
 ---
