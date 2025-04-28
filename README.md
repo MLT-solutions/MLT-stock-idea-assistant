@@ -79,7 +79,7 @@ Whether you’re crafting stock visuals, building a theme pack, or just experime
 | Features                                 | Free Mode         | PRO (Personal)     | PRO (Business)        |
 |-----------------------------------------|-------------------|--------------------|------------------------|
 | One-Time Cost                            | USD 0             | USD 29.99          | USD 59.99              |
-| Commercial Use                         | ❌ Not allowed   | ✅ Yes (for self-use) | ✅ Yes (for clients & business use) |
+| Commercial Use                         | ❌ Not allowed   | 🔶 Allowed for personal non-commercial projects | ✅ Allowed for clients, sales, business |
 | Use on Multiple Devices                | 1 device only    | Up to 2 devices       | Up to 3 devices         |
 | Max Prompts/ Images per Batch            | 3                 | Unlimited          | Unlimited              |
 | Enter "Prompt Theme" Auto Generate Prompts | ✅                | ✅                  | ✅                     |
