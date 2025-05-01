@@ -99,6 +99,8 @@ Whether you’re crafting stock visuals, building a theme pack, or just experime
 | Flexible Folder Mapping                  | ✅                | ✅                  | ✅                     |
 | **Purchase**                 |  🆓 [📥Download](https://github.com/MLT-solutions/MLT-stock-idea-assistant/releases/tag/1.0.0)           |    [🛒 Purchase](https://mltsolutions.gumroad.com/l/qwwvb)              |    [🛒 Purchase](https://mltsolutions.gumroad.com/l/itiph)                  |
 
+✅ All EXE builds are digitally signed with a verified code-signing certificate to ensure authenticity and prevent tampering.
+
 ## Requirements:
 - Ollama
 - ComfyUI installed via CLI
